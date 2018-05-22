@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="share">"Deli"</string>
+	<string name="save">"Shrani"</string>
+    <string name="app_name">"ponovnoizostri"</string>
+    <string name="set_image">"Nastavi sliko kot"</string>
+    <string name="saving_image">Shranjevanje slike \u2026</string>
+    <string name="m_please_wait">"Počakajte"</string>
+    <string name="cannot_load_image">"Slike ni mogoče naložiti."</string>
+	<string name="m_refocus_label">Ponovna izostritev slike</string>
+    <string name="m_saving_image">Shranjevanje slike v album <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="m_refocus_save_fail">Shranjevanje ni uspelo</string>
+    <string name="set_as">"Nastavi kot"</string>
+    <string name="loading_image">Nalaganje slike \u2026</string>
+    <string name="m_general_err_tip">Pojavljasenapaka.Aplikacijasebozaprla.</string>
+</resources>

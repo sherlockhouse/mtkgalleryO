@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="share">"Compartir"</string>
+	<string name="save">"Guardar"</string>
+    <string name="app_name">volveraenfocar</string>
+    <string name="set_image">"Establecer como..."</string>
+    <string name="saving_image">Guardando imagen\u2026</string>
+    <string name="m_please_wait">"Por favor, espera..."</string>
+    <string name="cannot_load_image">"Error al cargar la imagen"</string>
+	<string name="m_refocus_label">Volver a enfocar imagen</string>
+    <string name="m_saving_image">Guardando imagen en <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="m_refocus_save_fail">No se pudo guardar.</string>
+    <string name="set_as">"Establecer como"</string>
+    <string name="loading_image">Cargando imagen\u2026</string>
+    <string name="m_general_err_tip">Error.Laaplicaciónsecerrará.</string>
+</resources>

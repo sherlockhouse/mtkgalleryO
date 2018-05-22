@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_background">"background"</string>
+    <string name="saving_image">Saving picture\u2026</string>
+    <string name="filtershow_saving_image">Saving picture to <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Cannot load the image!"</string>
+    <string name="m_save">"Save"</string>
+    <string name="m_stereo_refine_foreground">Refine the foreground</string>
+    <string name="m_original">"Original"</string>
+    <string name="m_gallery">Erroroccurs.Appwillquit.</string>
+    <string name="m_general_err_tip">An error has occurred. The app will now quit.</string>
+</resources>

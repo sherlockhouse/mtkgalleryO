@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_background">နောက်ခံမြင်ကွင်း</string>
+    <string name="saving_image">ရုပ်ပုံသိမ်းနေသည်\u2026</string>
+    <string name="filtershow_saving_image"><xliff:g id="album_name">%1$s</xliff:g> သို့ ရုပ်ပုံသိမ်းနေသည်\u2026</string>
+    <string name="cannot_load_image">"ပုံတင်လို့မရပါ!"</string>
+    <string name="m_save">"သိမ်းဆည်းရန်"</string>
+    <string name="m_stereo_refine_foreground">ရှေ့ဘက်ကို ကောင်းမွန်အောင် ပြန်လုပ်ပါ</string>
+    <string name="m_original">မူရင်း</string>
+    <string name="m_gallery">ပြခန်း</string>
+    <string name="m_general_err_tip">အမှားဖြစ်ပွားသည်။ အက်ပ်သည် ထွက်သွားလိမ့်မည်။</string>
+</resources>

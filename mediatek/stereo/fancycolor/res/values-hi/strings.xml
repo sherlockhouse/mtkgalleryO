@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"प्रमुख लक्ष्य को परिष्कृत करें"</string>
+    <string name="m_fancy_color_effect_normal">सामान्‍य</string>
+    <string name="m_fancy_color_effect_monochrome">"मोनोक्रोम"</string>
+    <string name="m_fancy_color_effect_posterize">"पोस्टराइज़ करें"</string>
+    <string name="m_fancy_color_effect_radial_blur">"रेडियल धुँधलापन"</string>
+    <string name="m_fancy_color_effect_stroke">स्ट्रोक</string>
+    <string name="m_fancy_color_effect_silhouette">"छायाचित्र"</string>
+    <string name="m_fancy_color_effect_whiteboard">व्‍हाइटबोर्ड</string>
+    <string name="m_fancy_color_effect_blackboard">श्यामपट</string>
+    <string name="m_fancy_color_effect_negative">"नेगेटिव"</string>
+    <string name="m_general_err_tip">त्रुटिघटितहुई।एप्लिकेशनबंदहोजाएगा।</string>
+    <string name="m_fancy_color_label">मनोहर रंग</string>
+    <string name="app_name">रंग प्रभाव</string>
+    <string name="save">"सहेजें"</string>
+    <string name="saving_image">चित्र सहेज रहा है\u2026</string>
+    <string name="m_saving_image">चित्र को <xliff:g id="album_name">%1$s</xliff:g> में सहेज रहा है\u2026</string>
+    <string name="denied_required_permission">"अनुमतियाँ अस्वीकृत। आप उन्हें सेटिंग -&gt; ऐप्स में बदल सकते हैं।"</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"ធ្វើឱ្យវត្ថុសំខាន់ប្រសើរឡើង"</string>
+    <string name="m_fancy_color_effect_normal">"ធម្មតា"</string>
+    <string name="m_fancy_color_effect_monochrome">ឯកវណ្ណៈភាព</string>
+    <string name="m_fancy_color_effect_posterize">"ប័ណ្ណ​ពាណិជ្ជកម្ម"</string>
+    <string name="m_fancy_color_effect_radial_blur">"កាំរស្មីព្រិល"</string>
+    <string name="m_fancy_color_effect_stroke">ការវាយ</string>
+    <string name="m_fancy_color_effect_silhouette">គំនូរស្រមោលខ្មៅ</string>
+    <string name="m_fancy_color_effect_whiteboard">ក្តារស</string>
+    <string name="m_fancy_color_effect_blackboard">ក្តារខ្មៅ</string>
+    <string name="m_fancy_color_effect_negative">"អវិជ្ជមាន"</string>
+    <string name="m_general_err_tip">កំហុសកើតមាន។កម្មវិធីនឹងចាកចេញ។</string>
+    <string name="m_fancy_color_label">ពណ៌ស្អាត</string>
+    <string name="app_name">ពណ៌ស្អាត</string>
+    <string name="save">"រក្សាទុក"</string>
+    <string name="saving_image">កំពុងរក្សាទុករូបភាព\u2026</string>
+    <string name="m_saving_image">កំពុងរក្សាទុករូបភាពទៅកាន់<xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">«បដិសេធ ការអនុញ្ញាត ។ លោកអ្នក អាចកែប្រែវាបាន ក្នុង Settings -&gt; Apps ។»</string>
+</resources>

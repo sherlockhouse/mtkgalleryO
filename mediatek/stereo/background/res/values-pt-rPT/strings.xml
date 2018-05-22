@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_background">"Fundo"</string>
+    <string name="saving_image">A guardar imagem\u2026</string>
+    <string name="filtershow_saving_image">A guardar imagem em <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Não é possível carregar a imagem!"</string>
+    <string name="m_save">"Guardar"</string>
+    <string name="m_stereo_refine_foreground">Refinar o primeiro plano</string>
+    <string name="m_original">"Original"</string>
+    <string name="m_gallery">"Galeria"</string>
+    <string name="m_general_err_tip">Ocorreu um erro. A aplicação será fechada.</string>
+</resources>

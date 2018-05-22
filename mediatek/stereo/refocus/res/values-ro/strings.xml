@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="share">"Distrib."</string>
+	<string name="save">"Salvați"</string>
+    <string name="app_name">„refocalizare”</string>
+    <string name="set_image">"Setaţi fotografia ca"</string>
+    <string name="saving_image">Se salvează imaginea\u2026</string>
+    <string name="m_please_wait">"Vă rugăm așteptați"</string>
+    <string name="cannot_load_image">"Nu se poate încărca imaginea!"</string>
+	<string name="m_refocus_label">Refocalizare imagine</string>
+    <string name="m_saving_image">Se salvează imaginea în <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="m_refocus_save_fail">Imposibil de salvat</string>
+    <string name="set_as">"Setaţi ca"</string>
+    <string name="loading_image">Se încarcă imaginea\u2026</string>
+    <string name="m_general_err_tip">S-aprodusoeroare.Aplicaţiasevaînchide.</string>
+</resources>

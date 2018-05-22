@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"Tinh chỉnh đối tượng chính"</string>
+    <string name="m_fancy_color_effect_normal">"chuẩn"</string>
+    <string name="m_fancy_color_effect_monochrome">"Mộtmàu"</string>
+    <string name="m_fancy_color_effect_posterize">"Giảm màu"</string>
+    <string name="m_fancy_color_effect_radial_blur">"Mờ xuyên tâm"</string>
+    <string name="m_fancy_color_effect_stroke">Bằngphím</string>
+    <string name="m_fancy_color_effect_silhouette">"H.bóngđen"</string>
+    <string name="m_fancy_color_effect_whiteboard">Phông trắng</string>
+    <string name="m_fancy_color_effect_blackboard">Phông đen</string>
+    <string name="m_fancy_color_effect_negative">"Âm bản"</string>
+    <string name="m_general_err_tip">Đãxảyralỗi.Ứ.dụngsẽthoát.</string>
+    <string name="m_fancy_color_label">Màu yêu thích</string>
+    <string name="app_name">Màu ưa thích</string>
+    <string name="save">"Lưu"</string>
+    <string name="saving_image">Đang lưu hình\u2026</string>
+    <string name="m_saving_image">Đang lưu hình vào <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">"Từ chối cho phép. Bạn có thể đổi chúng trong Cài đặt -&gt; Ứng dụng."</string>
+</resources>

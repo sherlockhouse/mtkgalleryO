@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">"պատճենելևկպցնել"</string>
+    <string name="saving_image">Նկարը պահվում է\u2026</string>
+    <string name="filtershow_saving_image">Նկարը պահվում է առ <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Չհաջողվեց բեռնել պատկերը:"</string>
+    <string name="m_refine_cancel">ՉԵՂԱՐԿԵԼ</string>
+    <string name="m_refine_refine">ԿԱՏԱՐԵԼԱԳՈՐԾԵԼ</string>
+    <string name="m_refine_undo">"Հետարկել"</string>
+    <string name="m_refine_done">"Կատարված է"</string>
+    <string name="m_refine_save_clipping">Պահել Դրվագներում</string>
+    <string name="m_refine_saved_clipping">Նկարը պահվեց Դրվագներում:</string>
+    <string name="m_refine_select_obj_title">Ընտրել առարկա</string>
+    <string name="m_refine_refine_obj_title">Հստակեցնել առարկան</string>
+
+    <string name="m_save">"Պահել"</string>
+    <string name="m_stereo_refine_original_photo">Հստակեցնել բնօրինակ լուսանկարը</string>
+    <string name="m_pick_photo_to_copy">Ընտրել լուսանկար պատճենելու համար</string>
+
+    <string name="m_clippings">Կտրանքներ</string>
+    <string name="m_no_stereo_image">Ստերեո պատկերներ չկան:</string>
+    <string name="m_stereo_refine_zoom">"Խոշորացնել"</string>
+    <string name="m_stereo_refine_add_detail">Ավելացնել տվյալ</string>
+    <string name="m_stereo_refine_subtract_detail">Հանել տվյալը</string>
+    <string name="m_stereo_synth_move_front">Տեղափոխել առաջ</string>
+    <string name="m_stereo_synth_move_back">Տեղափոխել հետ</string>
+    <string name="m_general_err_tip">Սխալէտեղիունեցել:Ծրագիրըկփակվի:</string>
+</resources>

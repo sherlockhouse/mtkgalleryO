@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_background">"Latarbelakang"</string>
+    <string name="saving_image">Menyimpan gambar\u2026</string>
+    <string name="filtershow_saving_image">Menyimpan gambar ke <xliff:g id="nama_album">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Tidak dapat memuat gambar!"</string>
+    <string name="m_save">"Simpan"</string>
+    <string name="m_stereo_refine_foreground">Perhalus latar depan</string>
+    <string name="m_original">"Asli"</string>
+    <string name="m_gallery">"Galeri"</string>
+    <string name="m_general_err_tip">Terjadi kesalahan. Aplikasi akan berhenti.</string>
+</resources>

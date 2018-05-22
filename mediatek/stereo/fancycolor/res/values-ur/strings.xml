@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"اصل شئے کو صاف کریں"</string>
+    <string name="m_fancy_color_effect_normal">"عام"</string>
+    <string name="m_fancy_color_effect_monochrome">مونوکروم</string>
+    <string name="m_fancy_color_effect_posterize">پوسٹرائز</string>
+    <string name="m_fancy_color_effect_radial_blur">"قطری دھندلاپن"</string>
+    <string name="m_fancy_color_effect_stroke">جنبش</string>
+    <string name="m_fancy_color_effect_silhouette">یکرخیتصویر</string>
+    <string name="m_fancy_color_effect_whiteboard">سفید بورڈ</string>
+    <string name="m_fancy_color_effect_blackboard">بلیک بورڈ</string>
+    <string name="m_fancy_color_effect_negative">منفی</string>
+    <string name="m_general_err_tip">غلطیواقعہوتیہے۔ایپبندہوجائےگا۔</string>
+    <string name="m_fancy_color_label">آرائشی رنگ</string>
+    <string name="app_name">نفیس رنگ</string>
+    <string name="save">"محفوظ کریں"</string>
+    <string name="saving_image">تصویر محفوظ ہورہی ہے\u2026</string>
+    <string name="m_saving_image">تصویر <xliff:g id="album_name">%1$s</xliff:g> \u2026 میں محفوظ کی جارہی ہے</string>
+    <string name="denied_required_permission">"اجازتیں مسترد۔ آپ انہیں سیٹنگز -&gt; ایپس میں تبدیل کرسکتے ہیں۔" </string>
+</resources>

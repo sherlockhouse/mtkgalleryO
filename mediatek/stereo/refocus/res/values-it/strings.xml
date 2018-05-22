@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="share">"Condividi"</string>
+	<string name="save">"Salva"</string>
+    <string name="app_name">"rimettiafuoco"</string>
+    <string name="set_image">"Imposta foto come"</string>
+    <string name="saving_image">Salvataggio immagine in corso\u2026</string>
+    <string name="m_please_wait">"Attendi"</string>
+    <string name="cannot_load_image">"Impossibile caricare l'immagine."</string>
+	<string name="m_refocus_label">Rifocalizza immagine</string>
+    <string name="m_saving_image">Salvataggio immagine su <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="m_refocus_save_fail">Salvataggio non riuscito.</string>
+    <string name="set_as">"Imposta come"</string>
+    <string name="loading_image">Caricamento immagine in corso\u2026</string>
+    <string name="m_general_err_tip">"Sièverificatounerrore.L'appsichiuderà."</string>
+</resources>

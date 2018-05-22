@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="share">"Κοινήχρήση"</string>
+	<string name="save">"Αποθήκευση"</string>
+    <string name="app_name">εστ?ασηεκν?ου</string>
+    <string name="set_image">"Ορισμός εικόνας ως"</string>
+    <string name="saving_image">Αποθήκευση εικόνας\u2026</string>
+    <string name="m_please_wait">"Περιμένετε"</string>
+    <string name="cannot_load_image">"Δεν είναι δυνατή η φόρτωση της εικόνας!"</string>
+	<string name="m_refocus_label">Εικόνα επανεστίασης</string>
+    <string name="m_saving_image">Αποθήκευση εικόνας σε <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="m_refocus_save_fail">Η αποθήκευση απέτυχε</string>
+    <string name="set_as">"Ορισμός ως"</string>
+    <string name="loading_image">Φόρτωση εικόνας\u2026</string>
+    <string name="m_general_err_tip">Προέκυψεσφάλμα.Έξοδοςαπότηνεφαρμογή.</string>
+</resources>

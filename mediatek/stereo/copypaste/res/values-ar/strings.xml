@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">نسخولصق</string>
+    <string name="saving_image">حفظ الصورة\u2026</string>
+    <string name="filtershow_saving_image">حفظ الصورة في <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"لا يمكن تحميل الصورة!"</string>
+    <string name="m_refine_cancel">إلغاء</string>
+    <string name="m_refine_refine">تنقيح</string>
+    <string name="m_refine_undo">"تراجع"</string>
+    <string name="m_refine_done">"تم"</string>
+    <string name="m_refine_save_clipping">حفظ في اللقطات</string>
+    <string name="m_refine_saved_clipping">تم حفظ الصورة في اللقطات.</string>
+    <string name="m_refine_select_obj_title">تحديد الكائن</string>
+    <string name="m_refine_refine_obj_title">تنقيح كائن</string>
+
+    <string name="m_save">"حفظ"</string>
+    <string name="m_stereo_refine_original_photo">تنقيح الصورة الأصلية</string>
+    <string name="m_pick_photo_to_copy">اختر صورة للنسخ</string>
+
+    <string name="m_clippings">اللقطات</string>
+    <string name="m_no_stereo_image">لا يوجد صور استريو.</string>
+    <string name="m_stereo_refine_zoom">"تكبير/تصغير"</string>
+    <string name="m_stereo_refine_add_detail">إضافة تفصيل</string>
+    <string name="m_stereo_refine_subtract_detail">تفاصيل التعاقد من الباطن</string>
+    <string name="m_stereo_synth_move_front">نقل إلى الأمام</string>
+    <string name="m_stereo_synth_move_back">نقل إلى الخلف</string>
+    <string name="m_general_err_tip">حدثخطأ.سيتمإنهاءالتطبيق.</string>
+</resources>

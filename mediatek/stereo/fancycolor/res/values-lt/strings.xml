@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"Patobulinti pagrindinį objektą"</string>
+    <string name="m_fancy_color_effect_normal">"Normalus"</string>
+    <string name="m_fancy_color_effect_monochrome">Nespalvota</string>
+    <string name="m_fancy_color_effect_posterize">"Pav. plak."</string>
+    <string name="m_fancy_color_effect_radial_blur">"Spindulinis blukinimas"</string>
+    <string name="m_fancy_color_effect_stroke">Brūkšnys</string>
+    <string name="m_fancy_color_effect_silhouette">Siluetas</string>
+    <string name="m_fancy_color_effect_whiteboard">Balta lenta</string>
+    <string name="m_fancy_color_effect_blackboard">Juoda lenta</string>
+    <string name="m_fancy_color_effect_negative">"Negatyvas"</string>
+    <string name="m_general_err_tip">Įvykoklaida.Programėlėbusuždaryta.</string>
+    <string name="m_fancy_color_label">Prašmatni spalva</string>
+    <string name="app_name">Madinga spalva</string>
+    <string name="save">"Išsaugoti"</string>
+    <string name="saving_image">Išsaugoma nuotrauka\u2026</string>
+    <string name="m_saving_image">Nuotrauka išsaugoma %1$s \u2026</string>
+    <string name="denied_required_permission">„Leidimas nesuteiktas. Vėliau jas galėsite pakeisti skiltyje Parametrai &gt; Programėlės.“</string>
+</resources>

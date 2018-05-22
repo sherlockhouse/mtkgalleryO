@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"Affiner l'objet principal"</string>
+    <string name="m_fancy_color_effect_normal">"Normal"</string>
+    <string name="m_fancy_color_effect_monochrome">Monochrome</string>
+    <string name="m_fancy_color_effect_posterize">"Postéris."</string>
+    <string name="m_fancy_color_effect_radial_blur">"Flou radial"</string>
+    <string name="m_fancy_color_effect_stroke">Tracé</string>
+    <string name="m_fancy_color_effect_silhouette">Silhouette</string>
+    <string name="m_fancy_color_effect_whiteboard">"Tableau blanc"</string>
+    <string name="m_fancy_color_effect_blackboard">"Tableau noir"</string>
+    <string name="m_fancy_color_effect_negative">"Négatif"</string>
+    <string name="m_general_err_tip">"Uneerreurestsurvenue.L'applivasefermer."</string>
+    <string name="m_fancy_color_label">Couleur fantaisie</string>
+    <string name="app_name">CouleurFantaisie</string>
+    <string name="save">"Enregistrer"</string>
+    <string name="saving_image">Enregistrement image\u2026</string>
+    <string name="m_saving_image">Enregistrement image dans <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">"Autorisations refusées. Vous pouvez les modifier dans Paramètres -&gt; Applications."</string>
+</resources>

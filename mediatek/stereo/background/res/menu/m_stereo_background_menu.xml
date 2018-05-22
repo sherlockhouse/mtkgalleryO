@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/refine_refine_foreground"
+        android:showAsAction="never"
+        android:visible="false"
+        android:title="@string/m_stereo_refine_foreground"/>
+</menu>

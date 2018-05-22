@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="share">分享</string>
+    <string name="save">儲存</string>
+    <string name="app_name">重新聚焦</string>
+    <string name="set_image">將相片設為</string>
+    <string name="saving_image">儲存圖片\u2026</string>
+    <string name="m_please_wait">請稍候</string>
+    <string name="cannot_load_image">無法載入圖片！</string>
+    <string name="m_refocus_label">重新對焦</string>
+    <string name="m_saving_image">儲存圖片<xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="m_refocus_save_fail">儲存失敗</string>
+    <string name="set_as">設為</string>
+    <string name="loading_image">載入圖像\u2026</string>
+    <string name="m_general_err_tip">發生錯誤。應用程式將結束。</string>
+</resources>

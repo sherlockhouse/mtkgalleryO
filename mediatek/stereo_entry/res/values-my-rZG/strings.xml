@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_refocus">"ျပန္လည္ခ်ိန္ၾကည့္မႈ"</string>
+    <string name="m_stereo_copy_paste">"ကူးယူျခင္းႏွင့္ကူးထည့္ျခင္း"</string>
+    <string name="m_stereo_background">ေနာက္ခံ</string>
+    <string name="m_stereo_fancy_color">"ဖန္စီကာလာ"</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">복사하여붙여넣기</string>
+    <string name="saving_image">사진 저장 중\u2026</string>
+    <string name="filtershow_saving_image">사진을 <xliff:g id="album_name">%1$s</xliff:g>에 저장 중 \u2026</string>
+    <string name="cannot_load_image">"이미지를 로드할 수 없습니다."</string>
+    <string name="m_refine_cancel">취소</string>
+    <string name="m_refine_refine">미세조정</string>
+    <string name="m_refine_undo">"실행취소"</string>
+    <string name="m_refine_done">"완료"</string>
+    <string name="m_refine_save_clipping">클리핑에 저장</string>
+    <string name="m_refine_saved_clipping">그림이 클리핑에 저장되었습니다.</string>
+    <string name="m_refine_select_obj_title">개체 선택</string>
+    <string name="m_refine_refine_obj_title">개체 미세 조정</string>
+
+    <string name="m_save">"저장"</string>
+    <string name="m_stereo_refine_original_photo">원본 사진 미세 조정</string>
+    <string name="m_pick_photo_to_copy">복사할 사진 선택</string>
+
+    <string name="m_clippings">클리핑</string>
+    <string name="m_no_stereo_image">스테리오 이미지가 없습니다.</string>
+    <string name="m_stereo_refine_zoom">"확대/축소"</string>
+    <string name="m_stereo_refine_add_detail">세부 정보 추가</string>
+    <string name="m_stereo_refine_subtract_detail">세부 정보 빼기</string>
+    <string name="m_stereo_synth_move_front">앞으로 이동</string>
+    <string name="m_stereo_synth_move_back">뒤로 이동</string>
+    <string name="m_general_err_tip">오류가발생했습니다.앱이종료됩니다.</string>
+</resources>

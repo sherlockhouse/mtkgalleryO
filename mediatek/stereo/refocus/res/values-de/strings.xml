@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="share">"Teilen"</string>
+	<string name="save">"Speichern"</string>
+    <string name="app_name">neufokussieren</string>
+    <string name="set_image">"Bild festlegen als"</string>
+    <string name="saving_image">Bild wird gespeichert\u2026</string>
+    <string name="m_please_wait">"Bitte warten"</string>
+    <string name="cannot_load_image">"Bild kann nicht geladen werden."</string>
+	<string name="m_refocus_label">Bild neu fokussieren</string>
+    <string name="m_saving_image">Bild wird in <xliff:g id="album_name">%1$s</xliff:g> gespeichert\u2026</string>
+    <string name="m_refocus_save_fail">Speichern fehlgeschlagen</string>
+    <string name="set_as">"Festlegen als"</string>
+    <string name="loading_image">Bild wird geladen\u2026</string>
+    <string name="m_general_err_tip">Fehler.Appwirdbeendet.</string>
+</resources>

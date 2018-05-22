@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mediatek.photopicker"
+    android:versionCode="19"
+    android:versionName="1.2.9">
+
+    <!-- PhotoPicker SDK version -->
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="24" />
+
+    <!-- PhotoPicker permission set -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:theme="@style/PickerTheme">
+        <library android:name="com.mediatek.photopicker" />
+
+        <activity
+            android:name="com.mediatek.photopicker.PhotoPicker"
+            android:configChanges="orientation|keyboardHidden|screenSize|screenLayout|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.mediatek.action.PHOTOPICKER" />
+                <data android:mimeType="image/*" />
+                <category android:name="android.intent.category.ALTERNATIVE" />
+                <category android:name="android.intent.category.SELECTED_ALTERNATIVE" />
+            </intent-filter>
+
+            <intent-filter>
+                <action android:name="com.mediatek.action.photopicker.PICK" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">"ကူးယူခြင်းနှင့်ကပ်ခြင်း"</string>
+    <string name="saving_image">ရုပ်ပုံသိမ်းနေသည်\u2026</string>
+    <string name="filtershow_saving_image"><xliff:g id="album_name">%1$s</xliff:g> သို့ ရုပ်ပုံသိမ်းနေသည်\u2026</string>
+    <string name="cannot_load_image">"ပုံတင်လို့မရပါ!"</string>
+    <string name="m_refine_cancel">ပယ်ဖျက်ပါ</string>
+    <string name="m_refine_refine">ပြန်လည်မွမ်းမံပါ</string>
+    <string name="m_refine_undo">မလုပ်ပါ</string>
+    <string name="m_refine_done">ပြီးပြီ</string>
+    <string name="m_refine_save_clipping">Clippings သို့ သိမ်းပါ</string>
+    <string name="m_refine_saved_clipping">ရုပ်ပုံကို Clippings သို့ သိမ်းပြီးပြီ</string>
+    <string name="m_refine_select_obj_title">အရာဝတ္ထု ရွေးပါ</string>
+    <string name="m_refine_refine_obj_title">အရာဝတ္ထုကို ကောင်းမွန်အောင် ပြန်လုပ်ပါ</string>
+
+    <string name="m_save">"သိမ်းဆည်းရန်"</string>
+    <string name="m_stereo_refine_original_photo">မူရင်းရုပ်ပုံကို ကောင်းမွန်အောင် ပြန်လုပ်ပါ</string>
+    <string name="m_pick_photo_to_copy">မိတ္တူကူးရန် ဓာတ်ပုံတစ်ခု ကောက်ယူပါ</string>
+
+    <string name="m_clippings">Clippings</string>
+    <string name="m_no_stereo_image">စတီရီယို ရုပ်ပုံမရှိပါ။</string>
+    <string name="m_stereo_refine_zoom">"ချဲ့ချုံ့ရန်"</string>
+    <string name="m_stereo_refine_add_detail">အသေးစိတ် ထည့်ပါ</string>
+    <string name="m_stereo_refine_subtract_detail">အသေးစိတ် ထုတ်ပါ</string>
+    <string name="m_stereo_synth_move_front">ရှေ့သို့ ရွှေ့ပါ</string>
+    <string name="m_stereo_synth_move_back">နောက်သို့ ရွှေ့ပါ</string>
+    <string name="m_general_err_tip">အမှားဖြစ်ပေါ်သည်။အက်ပ်ထွက်သွားလိမ့်မည်။</string>
+</resources>

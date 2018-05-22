@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">„copiereşilipire”</string>
+    <string name="saving_image">Se salvează imaginea\u2026</string>
+    <string name="filtershow_saving_image">Se salvează imaginea în <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Nu se poate încărca imaginea!"</string>
+    <string name="m_refine_cancel">REVOCARE</string>
+    <string name="m_refine_refine">RAFINARE</string>
+    <string name="m_refine_undo">"ANULAȚI"</string>
+    <string name="m_refine_done">"Terminat"</string>
+    <string name="m_refine_save_clipping">Salvare în Decupaje</string>
+    <string name="m_refine_saved_clipping">Imagine salvată în Decupaje.</string>
+    <string name="m_refine_select_obj_title">Selectare obiect</string>
+    <string name="m_refine_refine_obj_title">Rafinare obiect</string>
+
+    <string name="m_save">"Salvați"</string>
+    <string name="m_stereo_refine_original_photo">Rafinare fotografie originală</string>
+    <string name="m_pick_photo_to_copy">Alegeţi o fotografie de copiat</string>
+
+    <string name="m_clippings">Decupări</string>
+    <string name="m_no_stereo_image">Nicio imagine stereo.</string>
+    <string name="m_stereo_refine_zoom">"Zoom"</string>
+    <string name="m_stereo_refine_add_detail">Adăugare detaliu</string>
+    <string name="m_stereo_refine_subtract_detail">Eliminare detaliu</string>
+    <string name="m_stereo_synth_move_front">Mutare în faţă</string>
+    <string name="m_stereo_synth_move_back">Mutare în spate</string>
+    <string name="m_general_err_tip">S-aprodusoeroare.Aplicaţiasevaînchide.</string>
+</resources>

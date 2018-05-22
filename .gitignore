@@ -1,0 +1,15 @@
+
+app/devOfficial
+.gradle/
+.idea/
+captures/
+FreemeGallery.apk
+FreemeGallery_oversea.iml
+build/
+gradle/
+gradlew
+gradlew.bat
+*/app-devInternationalOfficial-release.apk
+*/app.iml
+*/build/
+*.iml

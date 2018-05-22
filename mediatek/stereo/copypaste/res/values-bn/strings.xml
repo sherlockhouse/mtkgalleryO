@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">"কপিওপেস্ট"</string>
+    <string name="saving_image">ছবি সংরক্ষণ করা হচ্ছে\u2026</string>
+    <string name="filtershow_saving_image">ছবি <xliff:g id="album_name">%1$s</xliff:g> সংরক্ষণ করা হচ্ছে\u2026</string>
+    <string name="cannot_load_image">ছবিটি লোড করা যাবে না!</string>
+    <string name="m_refine_cancel">বাতিলকরুন</string>
+    <string name="m_refine_refine">পরিমার্জন</string>
+    <string name="m_refine_undo">আনডু</string>
+    <string name="m_refine_done">সম্পন্ন</string>
+    <string name="m_refine_save_clipping">ক্লিপিংয়ে সংরক্ষণ করুন</string>
+    <string name="m_refine_saved_clipping">ক্লিপিংয়ে ছবি সংরক্ষিত।</string>
+    <string name="m_refine_select_obj_title">বস্তু নির্বাচন করুন</string>
+    <string name="m_refine_refine_obj_title">বস্তু পরিশোধন করুন</string>
+
+    <string name="m_save">সংরক্ষণ করুন</string>
+    <string name="m_stereo_refine_original_photo">মূল ছবি পরিশোধন করুন</string>
+    <string name="m_pick_photo_to_copy">কপি করতে ছবি তুলুন</string>
+
+    <string name="m_clippings">ক্লিপিং</string>
+    <string name="m_no_stereo_image">কোনো স্টেরিও ছবি নেই।</string>
+    <string name="m_stereo_refine_zoom">জুম করুন</string>
+    <string name="m_stereo_refine_add_detail">বিস্তারিত যোগ করুন</string>
+    <string name="m_stereo_refine_subtract_detail">বিস্তারিত বিয়োগ করুন</string>
+    <string name="m_stereo_synth_move_front">সামনে সরান</string>
+    <string name="m_stereo_synth_move_back">পেছনে সরান</string>
+    <string name="m_general_err_tip">ত্রুটিহচ্ছে।অ্যাপছাড়বে।</string>
+</resources>

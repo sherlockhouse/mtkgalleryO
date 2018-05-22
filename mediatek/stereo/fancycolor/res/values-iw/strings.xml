@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"חדד את האובייקט הראשי"</string>
+    <string name="m_fancy_color_effect_normal">"רגיל"</string>
+    <string name="m_fancy_color_effect_monochrome">שחור-לבן</string>
+    <string name="m_fancy_color_effect_posterize">"פוסטריזציה"</string>
+    <string name="m_fancy_color_effect_radial_blur">"טשטוש רדיאלי"</string>
+    <string name="m_fancy_color_effect_stroke">משיכתמכחול</string>
+    <string name="m_fancy_color_effect_silhouette">צללית</string>
+    <string name="m_fancy_color_effect_whiteboard">לוח</string>
+    <string name="m_fancy_color_effect_blackboard">לוח שחור</string>
+    <string name="m_fancy_color_effect_negative">"נגטיב"</string>
+    <string name="m_general_err_tip">אירעהשגיאה.האפליקציהתיסגר.</string>
+    <string name="m_fancy_color_label">צבע מהודר</string>
+    <string name="app_name">צבע מפואר</string>
+    <string name="save">"שמור"</string>
+    <string name="saving_image">שומר תמונה\u2026</string>
+    <string name="m_saving_image">שומר תמונה ל-<xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">‏"ההרשאות נדחו. באפשרותך לשנות אותן תחת 'הגדרות' -> 'יישומים'."</string>
+</resources>

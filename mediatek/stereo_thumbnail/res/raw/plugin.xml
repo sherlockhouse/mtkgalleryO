@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        id="StereoThumbnail"
+        name="Stereo Thumbnail"
+        version="1"
+        xmlns="http://www.plugin.com"
+        xsi:schemaLocation="http://www.plugin.com ../../../plugin/assets/plugin.xsd">
+    <extension
+            id="StereoField"
+            name="Stereo field"
+            class="com.mediatek.galleryfeature.stereothumbnail.StereoField"
+            plugin-id="Gallery2Root"
+            point-id="IFieldDefinition">
+    </extension>
+    <extension
+        id="StereoThumbMember"
+        name="Stereo thumb member"
+        class="com.mediatek.galleryfeature.stereothumbnail.StereoThumbMember"
+        plugin-id="Gallery2Root"
+        point-id="MediaMember">
+    </extension>
+    <extension
+        id="StereoThumbLayer"
+        name="Stereo thumb layer"
+        class="com.mediatek.galleryfeature.stereothumbnail.StereoThumbLayer"
+        plugin-id="Gallery2Root"
+        point-id="Layer">
+    </extension>
+    <extension
+        id="StereoThumbDataParserCallback"
+        name="Stereo thumb data parser callback"
+        class="com.mediatek.galleryfeature.stereothumbnail.StereoThumbDataParserCallback"
+        plugin-id="Gallery2Root"
+        point-id="IDataParserCallback">
+    </extension>
+</plugin>

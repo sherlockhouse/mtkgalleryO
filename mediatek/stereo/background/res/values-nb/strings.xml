@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_background">"bakgrunn"</string>
+    <string name="saving_image">Lagrer bildet \u2026</string>
+    <string name="filtershow_saving_image">Lagrer bildet til <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Kan ikke laste inn bildet."</string>
+    <string name="m_save">"Lagre"</string>
+    <string name="m_stereo_refine_foreground">Forfin forgrunnen</string>
+    <string name="m_original">"Original"</string>
+    <string name="m_gallery">"Galleri"</string>
+    <string name="m_general_err_tip">En feil oppstod; appen avsluttes.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_background">背景替换</string>
+    <string name="saving_image">"正在保存照片..."</string>
+    <string name="filtershow_saving_image">"正在将照片保存到“<xliff:g id="ALBUM_NAME">%1$s</xliff:g>”…"</string>
+    <string name="cannot_load_image">"无法加载该图片！"</string>
+
+    <!-- Segment Part begin -->
+    <string name="m_save">保存</string>
+    <string name="m_stereo_refine_foreground">精修前景</string>
+    <string name="m_original">原图</string>
+    <string name="m_gallery">图库</string>
+    <!-- Segment Part end -->
+
+    <string name="m_general_err_tip">发生错误，退出应用。</string>
+</resources>
+

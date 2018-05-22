@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">„másolásésbeillesztés”</string>
+    <string name="saving_image">Kép mentése\u2026</string>
+    <string name="filtershow_saving_image">Kép mentése ide: <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Nem sikerült betölteni a képet!"</string>
+    <string name="m_refine_cancel">MÉGSE</string>
+    <string name="m_refine_refine">FINOMÍTÁS</string>
+    <string name="m_refine_undo">"VISSZAVONÁS"</string>
+    <string name="m_refine_done">"Kész"</string>
+    <string name="m_refine_save_clipping">Mentés Clippings-hez</string>
+    <string name="m_refine_saved_clipping">Kép mentve a Clippings-ben</string>
+    <string name="m_refine_select_obj_title">Objektum kiválasztása</string>
+    <string name="m_refine_refine_obj_title">Objektum finomítása</string>
+
+    <string name="m_save">"Mentés"</string>
+    <string name="m_stereo_refine_original_photo">Eredeti fénykép finomítása</string>
+    <string name="m_pick_photo_to_copy">Válassz egy fényképet a másoláshoz</string>
+
+    <string name="m_clippings">Kivágások</string>
+    <string name="m_no_stereo_image">Nincsenek sztereó képek.</string>
+    <string name="m_stereo_refine_zoom">"Nagyít/kicsinyít"</string>
+    <string name="m_stereo_refine_add_detail">Részlet hozzáadása</string>
+    <string name="m_stereo_refine_subtract_detail">Részlet eltávolítása</string>
+    <string name="m_stereo_synth_move_front">Mozgatás előre</string>
+    <string name="m_stereo_synth_move_back">Mozgatás hátra</string>
+    <string name="m_general_err_tip">Hibatörtént.Azalkalmazásbezárul.</string>
+</resources>

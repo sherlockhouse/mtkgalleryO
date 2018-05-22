@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_background">ব্যাকগ্রাউন্ড</string>
+    <string name="saving_image">ছবি সংরক্ষণ করা হচ্ছে\u2026</string>
+    <string name="filtershow_saving_image">ছবি <xliff:g id="album_name">%1$s</xliff:g> সংরক্ষণ করা হচ্ছে\u2026</string>
+    <string name="cannot_load_image">ছবিটি লোড করা যাবে না!</string>
+    <string name="m_save">সংরক্ষণ করুন</string>
+    <string name="m_stereo_refine_foreground">ফোরগ্রাউন্ড পরিশোধন করুন</string>
+    <string name="m_original">মূল</string>
+    <string name="m_gallery">গ্যালারি</string>
+    <string name="m_general_err_tip">ত্রুটি ঘটেছে। অ্যাপ চলে যাবে।</string>
+</resources>

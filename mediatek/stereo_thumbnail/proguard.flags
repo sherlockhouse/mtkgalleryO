@@ -1,0 +1,2 @@
+-keep class com.mediatek.galleryfeature.stereothumbnail.** { *; }
+-keep class com.mediatek.gallerybasic.** { *; }

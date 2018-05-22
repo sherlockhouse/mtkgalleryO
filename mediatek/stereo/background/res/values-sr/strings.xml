@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_background">"позадина"</string>
+    <string name="saving_image">Чување слике\u2026</string>
+    <string name="filtershow_saving_image">Чување слике у <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Није могуће учитати слику!"</string>
+    <string name="m_save">"Сачувај"</string>
+    <string name="m_stereo_refine_foreground">Прецизирај предњи план</string>
+    <string name="m_original">"Оригинална"</string>
+    <string name="m_gallery">Дошлоједогрешке.Апликацијаћесезатворити.</string>
+    <string name="m_general_err_tip">Дошло је до грешке. Апликација ће се затворити.</string>
+</resources>

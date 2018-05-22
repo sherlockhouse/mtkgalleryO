@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">kopijuotiirįklijuoti</string>
+    <string name="saving_image">Išsaugoma nuotrauka\u2026</string>
+    <string name="filtershow_saving_image">Nuotrauka išsaugoma %1$s \u2026</string>
+    <string name="cannot_load_image">"Nepavyksta įkelti vaizdo!"</string>
+    <string name="m_refine_cancel">ATŠAUKTI</string>
+    <string name="m_refine_refine">PATIKSLINTI</string>
+    <string name="m_refine_undo">"ANULIUOTI"</string>
+    <string name="m_refine_done">"Atlikta"</string>
+    <string name="m_refine_save_clipping">Įrašyti į iškarpas</string>
+    <string name="m_refine_saved_clipping">Paveikslėlis įrašytas į iškarpas.</string>
+    <string name="m_refine_select_obj_title">Pasirinkti objektą</string>
+    <string name="m_refine_refine_obj_title">Patobulinti objektą</string>
+
+    <string name="m_save">"Išsaugoti"</string>
+    <string name="m_stereo_refine_original_photo">Patobulinti originalią nuotrauką</string>
+    <string name="m_pick_photo_to_copy">Pasirinkti nuotrauką kopijavimui</string>
+
+    <string name="m_clippings">Iškarpos</string>
+    <string name="m_no_stereo_image">Nėra stereofoninių vaizdų.</string>
+    <string name="m_stereo_refine_zoom">"Keisti mastelį"</string>
+    <string name="m_stereo_refine_add_detail">Pridėti detalę</string>
+    <string name="m_stereo_refine_subtract_detail">Atimti detalę</string>
+    <string name="m_stereo_synth_move_front">Patraukti į priekį</string>
+    <string name="m_stereo_synth_move_back">Patraukti atgal</string>
+    <string name="m_general_err_tip">Įvykoklaida.Programėlėbusuždaryta.</string>
+</resources>

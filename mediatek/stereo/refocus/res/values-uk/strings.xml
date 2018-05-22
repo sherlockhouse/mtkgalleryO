@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="share">"Надіслати"</string>
+	<string name="save">"Зберегти"</string>
+    <string name="app_name">"змінитифокус"</string>
+    <string name="set_image">"Устан. фото як"</string>
+    <string name="saving_image">Збереження зображення\u2026</string>
+    <string name="m_please_wait">"Зачекайте"</string>
+    <string name="cannot_load_image">"Неможливо завантажити зображення."</string>
+	<string name="m_refocus_label">Змінити фокус зображення</string>
+    <string name="m_saving_image">Збереження зображення в<xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="m_refocus_save_fail">Не збережено</string>
+    <string name="set_as">"Устан. як"</string>
+    <string name="loading_image">Завантаження зображення\u2026</string>
+    <string name="m_general_err_tip">Трапиласяпомилка.Програмазакриється.</string>
+</resources>

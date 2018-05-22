@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"Pinuhin ang pangunahing object"</string>
+    <string name="m_fancy_color_effect_normal">"Normal"</string>
+    <string name="m_fancy_color_effect_monochrome">"Monochrome"</string>
+    <string name="m_fancy_color_effect_posterize">"I-posterize"</string>
+    <string name="m_fancy_color_effect_radial_blur">"Radial blur"</string>
+    <string name="m_fancy_color_effect_stroke">Stroke</string>
+    <string name="m_fancy_color_effect_silhouette">Silhouette</string>
+    <string name="m_fancy_color_effect_whiteboard">Bluetooth on</string>
+    <string name="m_fancy_color_effect_blackboard">Bluetooth off</string>
+    <string name="m_fancy_color_effect_negative">"Negative"</string>
+    <string name="m_general_err_tip">Magaganapangerror.Magki-quitangApp.</string>
+    <string name="m_fancy_color_label">Fancy na kulay</string>
+    <string name="app_name">FancyColor</string>
+    <string name="save">"I-save"</string>
+    <string name="saving_image">Sine-save ang larawan\u2026</string>
+    <string name="m_saving_image">Sine-save ang larawan sa <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">"Tinanggihan ang mga pahintulot. Mapapalitan mo ito sa Mga Setting -&gt; Apps."</string>
+</resources>

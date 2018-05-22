@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"Βελτιώστε το κύριο αντικείμενο"</string>
+    <string name="m_fancy_color_effect_normal">"Κανονική"</string>
+    <string name="m_fancy_color_effect_monochrome">Μονόχρωμο</string>
+    <string name="m_fancy_color_effect_posterize">"Ποστεροποίηση"</string>
+    <string name="m_fancy_color_effect_radial_blur">"Μέθοδος ζουμ radial blur"</string>
+    <string name="m_fancy_color_effect_stroke">Γραμμή</string>
+    <string name="m_fancy_color_effect_silhouette">Σιλουέτα</string>
+    <string name="m_fancy_color_effect_whiteboard">Ασπροπίνακας</string>
+    <string name="m_fancy_color_effect_blackboard">Μαυροπίνακας</string>
+    <string name="m_fancy_color_effect_negative">"Αρνητικό"</string>
+    <string name="m_general_err_tip">Προέκυψεσφάλμα.Έξοδοςαπότηνεφαρμογή.</string>
+    <string name="m_fancy_color_label">Ζωηρό χρώμα</string>
+    <string name="app_name">FancyColor</string>
+    <string name="save">"Αποθήκευση"</string>
+    <string name="saving_image">Αποθήκευση εικόνας\u2026</string>
+    <string name="m_saving_image">Αποθήκευση εικόνας σε <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">«Μη αποδεκτά δικαιώματα. Μπορείτε να τα αλλάξετε στην επιλογή Ρυθμίσεις &gt; Εφαρμογές.»</string>
+</resources>

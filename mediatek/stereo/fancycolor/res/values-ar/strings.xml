@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"تنقيح الهدف الرئيسي"</string>
+    <string name="m_fancy_color_effect_normal">"عادي"</string>
+
+    <string name="m_fancy_color_effect_monochrome">أبيضوأسود</string>
+    <string name="m_fancy_color_effect_posterize">"تتالٍ"</string>
+    <string name="m_fancy_color_effect_radial_blur">"التمويه الشعاعي"</string>
+    <string name="m_fancy_color_effect_stroke">Stroke</string>
+    <string name="m_fancy_color_effect_silhouette">عصري</string>
+    <string name="m_fancy_color_effect_whiteboard">لوحة بيضاء</string>
+    <string name="m_fancy_color_effect_blackboard">لوحة سوداء</string>
+    <string name="m_fancy_color_effect_negative">"سالب"</string>
+    <string name="m_general_err_tip">حدثخطأ.سيتمإنهاءالتطبيق.</string>
+    <string name="m_fancy_color_label">لون زخرفي</string>
+    <string name="app_name">لون خيالي</string>
+    <string name="save">"حفظ"</string>
+	<string name="saving_image">حفظ الصورة\u2026</string>
+    <string name="m_saving_image">حفظ الصورة في <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">"تم رفض الأذونات. يمكنك تغيير ذلك لاحقًا في الإعدادات -&gt; التطبيقات"</string>
+</resources>

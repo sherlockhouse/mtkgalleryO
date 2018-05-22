@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_background">"ផ្ទៃ​ខាង​ក្រោយ"</string>
+    <string name="saving_image">កំពុងរក្សាទុករូបភាព\u2026</string>
+    <string name="filtershow_saving_image">កំពុងរក្សាទុករូបភាពទៅកាន់<xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"មិន​អាច​ផ្ទុក​រូបភាព​!"</string>
+    <string name="m_save">"រក្សាទុក"</string>
+    <string name="m_stereo_refine_foreground">បន្សុទ្ធផ្នែកខាងមុខ</string>
+    <string name="m_original">"ដើម"</string>
+    <string name="m_gallery">"វិចិត្រ​សាល"</string>
+    <string name="m_general_err_tip">កំហុសកើតឡើង។ កម្មវិធីនឹងបិទ។</string>
+</resources>

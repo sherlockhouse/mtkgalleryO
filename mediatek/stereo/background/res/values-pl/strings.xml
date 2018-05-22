@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_background">"tła"</string>
+    <string name="saving_image">Zapisywanie zdjęcia\u2026</string>
+    <string name="filtershow_saving_image">Zapisywanie zdjęcia w <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Nie można wczytać zdjęcia."</string>
+    <string name="m_save">"Zapisz"</string>
+    <string name="m_stereo_refine_foreground">Popraw pierwszy plan</string>
+    <string name="m_original">"Oryginalny"</string>
+    <string name="m_gallery">"Galeria"</string>
+    <string name="m_general_err_tip">Wystąpił błąd. Aplikacja zostanie zamknięta.</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_background">"background"</string>
+    <!-- Toast/alert that the image is being saved to the SD card -->
+    <string name="saving_image">Saving picture\u2026</string>
+    <!-- Toast/alert that the image is being saved after editing in filtershow [CHAR LIMIT=40]-->
+    <string name="filtershow_saving_image">Saving picture to <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <!--  String shown when we cannot load the image when starting the activity [CHAR LIMIT=NONE] -->
+    <string name="cannot_load_image">Cannot load the image!</string>
+
+    <!-- Segment Part begin -->
+    <string name="m_save">Save</string>
+    <string name="m_stereo_refine_foreground">Refine the foreground</string>
+    <string name="m_original">Original</string>
+    <string name="m_gallery">Gallery</string>
+    <!-- Segment Part end -->
+
+    <string name="m_general_err_tip">Error occurs. App will quit.</string>
+</resources>
+

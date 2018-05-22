@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">精修主体</string>
+    <string name="m_fancy_color_effect_normal">正常</string>
+    <string name="m_fancy_color_effect_monochrome">单色</string>
+    <string name="m_fancy_color_effect_posterize">色调分离</string>
+    <string name="m_fancy_color_effect_radial_blur">径向模糊</string>
+    <string name="m_fancy_color_effect_stroke">描边</string>
+    <string name="m_fancy_color_effect_silhouette">剪影</string>
+    <string name="m_fancy_color_effect_whiteboard">白板</string>
+    <string name="m_fancy_color_effect_blackboard">黑板</string>
+    <string name="m_fancy_color_effect_negative">反色</string>
+    <string name="m_general_err_tip">发生错误，退出应用。</string>
+    <string name="m_fancy_color_label">色彩特效</string>
+    <string name="app_name">色彩特效</string>
+    <string name="save">保存</string>
+    <string name="saving_image">保存图片\u2026</string>
+    <string name="m_saving_image">保存图片到 <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">权限不足,请在设定- &gt;Apps中修改</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="background_screen">#101010</color>
+	<drawable name="m_button_refine_pressed">#ff333333</drawable>
+	<drawable name="m_button_refine_unpressed">#99333333</drawable>
+	<drawable name="m_button_refine_disabled">#cc999999</drawable>
+</resources>
+

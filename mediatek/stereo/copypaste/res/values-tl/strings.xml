@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">"i-copy&amp;paste"</string>
+    <string name="saving_image">Sine-save ang larawan\u2026</string>
+    <string name="filtershow_saving_image">Sine-save ang larawan sa <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Hindi ma-load ang larawan!"</string>
+    <string name="m_refine_cancel">KANSELAHIN</string>
+    <string name="m_refine_refine">I-REFINE</string>
+    <string name="m_refine_undo">"I-UNDO"</string>
+    <string name="m_refine_done">"Tapos na"</string>
+    <string name="m_refine_save_clipping">I-save as Mga Clipping</string>
+    <string name="m_refine_saved_clipping">Nai-save ang larawan sa Mga Clipping.</string>
+    <string name="m_refine_select_obj_title">Piliin ang object</string>
+    <string name="m_refine_refine_obj_title">Pinuhin ang object</string>
+
+    <string name="m_save">"I-save"</string>
+    <string name="m_stereo_refine_original_photo">Pinuhin ang orihinal na larawan</string>
+    <string name="m_pick_photo_to_copy">Pumili ng larawang kokopyahin</string>
+
+    <string name="m_clippings">MgaClipping</string>
+    <string name="m_no_stereo_image">Walang mga larawan ng isteryo.</string>
+    <string name="m_stereo_refine_zoom">"I-zoom"</string>
+    <string name="m_stereo_refine_add_detail">Magdagdag ng detalye</string>
+    <string name="m_stereo_refine_subtract_detail">Magbawas ng detalye</string>
+    <string name="m_stereo_synth_move_front">Ilagay sa harap</string>
+    <string name="m_stereo_synth_move_back">Ilagay sa likod</string>
+    <string name="m_general_err_tip">Magaganapangerror.Magki-quitangApp.</string>
+</resources>

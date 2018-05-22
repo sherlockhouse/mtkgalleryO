@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="category_panel_height">86dip</dimen>
+    <dimen name="category_panel_icon_size">64dip</dimen>
+    <dimen name="center_linear_layout_max_width">650dip</dimen>
+    <dimen name="edge_glow_size">50dip</dimen>
+    <dimen name="action_item_height">175dip</dimen>
+    <dimen name="thumbnail_margin">3dip</dimen>
+    <dimen name="category_panel_text_size">13dip</dimen>
+    <dimen name="category_panel_margin">4dip</dimen>
+</resources>

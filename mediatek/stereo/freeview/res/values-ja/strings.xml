@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">FreeView3D</string>
+    <string name="show">"表示"</string>
+    <string name="hide">"非表示"</string>
+</resources>

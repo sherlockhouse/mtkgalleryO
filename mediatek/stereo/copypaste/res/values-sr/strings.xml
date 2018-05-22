@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">"копирајиналепи"</string>
+    <string name="saving_image">Чување слике\u2026</string>
+    <string name="filtershow_saving_image">Чување слике у <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Није могуће учитати слику!"</string>
+    <string name="m_refine_cancel">ОТКАЖИ</string>
+    <string name="m_refine_refine">ДОТЕРАЈ</string>
+    <string name="m_refine_undo">"ОПОЗОВИ"</string>
+    <string name="m_refine_done">"Готово"</string>
+    <string name="m_refine_save_clipping">Сачувај у Исечке</string>
+    <string name="m_refine_saved_clipping">Слика сачувана у Исечке</string>
+    <string name="m_refine_select_obj_title">Изабери објекат</string>
+    <string name="m_refine_refine_obj_title">Прецизирај објекат</string>
+
+    <string name="m_save">"Сачувај"</string>
+    <string name="m_stereo_refine_original_photo">Прецизирај оригиналну фотографију</string>
+    <string name="m_pick_photo_to_copy">Изаберите фотографију за копирање</string>
+
+    <string name="m_clippings">Исечци</string>
+    <string name="m_no_stereo_image">Нема стерео слика.</string>
+    <string name="m_stereo_refine_zoom">"Зумирај"</string>
+    <string name="m_stereo_refine_add_detail">Додај детаљ</string>
+    <string name="m_stereo_refine_subtract_detail">Одузми детаљ</string>
+    <string name="m_stereo_synth_move_front">Помери унапред</string>
+    <string name="m_stereo_synth_move_back">Помери уназад</string>
+    <string name="m_general_err_tip">Дошлоједогрешке.Апликацијаћесезатворити.</string>
+</resources>

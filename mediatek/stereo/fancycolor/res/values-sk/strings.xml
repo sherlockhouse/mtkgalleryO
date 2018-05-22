@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"Vylepšiť hlavný objekt"</string>
+    <string name="m_fancy_color_effect_normal">"Normálne"</string>
+    <string name="m_fancy_color_effect_monochrome">Čiernobielo</string>
+    <string name="m_fancy_color_effect_posterize">"Posterizácia"</string>
+    <string name="m_fancy_color_effect_radial_blur">"Lúčové rozmazanie"</string>
+    <string name="m_fancy_color_effect_stroke">Ťah</string>
+    <string name="m_fancy_color_effect_silhouette">Silueta</string>
+    <string name="m_fancy_color_effect_whiteboard">Biela tabuľa</string>
+    <string name="m_fancy_color_effect_blackboard">Čierna tabuľa</string>
+    <string name="m_fancy_color_effect_negative">"Negatív"</string>
+    <string name="m_general_err_tip">Došlokchybe.Aplikáciabudeukončená.</string>
+    <string name="m_fancy_color_label">Živá farba</string>
+    <string name="app_name">FancyColor</string>
+    <string name="save">"Uložiť"</string>
+    <string name="saving_image">Ukladanie obrazu\u2026</string>
+    <string name="m_saving_image">Obraz sa ukladá do <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">"Povolenia sú zamietnuté"</string>
+</resources>

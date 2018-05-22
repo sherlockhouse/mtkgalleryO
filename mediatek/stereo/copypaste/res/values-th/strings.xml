@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">คัดลอก&amp;วาง</string>
+    <string name="saving_image">กำลังบันทึกภาพ\u2026</string>
+    <string name="filtershow_saving_image">กำลังบันทึกภาพไปยัง <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"ไม่สามารถโหลดภาพ!"</string>
+    <string name="m_refine_cancel">ยกเลิก</string>
+    <string name="m_refine_refine">ปรับแต่ง</string>
+    <string name="m_refine_undo">"เลิกทำ"</string>
+    <string name="m_refine_done">"เสร็จสิ้น"</string>
+    <string name="m_refine_save_clipping">บันทึกไปยังคลิป</string>
+    <string name="m_refine_saved_clipping">รูปภาพที่บันทึกไปยังคลิป</string>
+    <string name="m_refine_select_obj_title">เลือกวัตถุ</string>
+    <string name="m_refine_refine_obj_title">ปรับแต่งวัตถุ</string>
+
+    <string name="m_save">"บันทึก"</string>
+    <string name="m_stereo_refine_original_photo">ปรับแต่งภาพต้นฉบับ</string>
+    <string name="m_pick_photo_to_copy">เลือกภาพที่จะคัดลอก</string>
+
+    <string name="m_clippings">Clippings</string>
+    <string name="m_no_stereo_image">ไม่มีภาพสเตอริโอ</string>
+    <string name="m_stereo_refine_zoom">"ซูม"</string>
+    <string name="m_stereo_refine_add_detail">เพิ่มรายละเอียด</string>
+    <string name="m_stereo_refine_subtract_detail">ลบรายละเอียด</string>
+    <string name="m_stereo_synth_move_front">ย้ายไปข้างหน้า</string>
+    <string name="m_stereo_synth_move_back">ย้ายไปข้างหลัง</string>
+    <string name="m_general_err_tip">เกิดข้อผิดพลาดแอปจะเลิก</string>
+</resources>

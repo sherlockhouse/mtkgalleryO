@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">kopyalaveyapıştır</string>
+    <string name="saving_image">Resim kaydediliyor\u2026</string>
+    <string name="filtershow_saving_image">Resim <xliff:g id="album_name">%1$s</xliff:g> kısmına kaydediliyor\u2026</string>
+    <string name="cannot_load_image">"Resim yüklenemiyor"</string>
+    <string name="m_refine_cancel">İPTAL</string>
+    <string name="m_refine_refine">GELİŞTİR</string>
+    <string name="m_refine_undo">"GERİ AL"</string>
+    <string name="m_refine_done">"Bitti"</string>
+    <string name="m_refine_save_clipping">Kırpmalara kaydet</string>
+    <string name="m_refine_saved_clipping">Resim, Kırpmalara kaydedildi.</string>
+    <string name="m_refine_select_obj_title">Nesne seç</string>
+    <string name="m_refine_refine_obj_title">Nesneyi iyileştir</string>
+
+    <string name="m_save">"Kaydet"</string>
+    <string name="m_stereo_refine_original_photo">Özgün fotoğrafı iyileştir</string>
+    <string name="m_pick_photo_to_copy">Kopyalamak için bir fotoğraf seç</string>
+
+    <string name="m_clippings">Kırpıntılar</string>
+    <string name="m_no_stereo_image">Stereo görüntü yok.</string>
+    <string name="m_stereo_refine_zoom">"Zum"</string>
+    <string name="m_stereo_refine_add_detail">Ayrıntı ekle</string>
+    <string name="m_stereo_refine_subtract_detail">Ayrıntı çıkar</string>
+    <string name="m_stereo_synth_move_front">Öne taşı</string>
+    <string name="m_stereo_synth_move_back">Arkaya taşı</string>
+    <string name="m_general_err_tip">Hataoluştu.Uygulamakapanacak.</string>
+</resources>

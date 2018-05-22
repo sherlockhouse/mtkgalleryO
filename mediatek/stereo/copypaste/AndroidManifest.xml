@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.mediatek.galleryfeature.stereo.segment.copypaste"
+    android:sharedUserId="android.uid.system"
+    android:versionCode="6"
+    android:versionName="1.1.6" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <application tools:replace="android:icon,android:label,android:theme"
+        android:theme="@android:style/Theme.Material"
+        android:icon="@drawable/m_copy_paste"
+        android:label="@string/m_stereo_copy_paste"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:largeHeap="true" >
+
+        <uses-library android:name="com.mediatek.photopicker" />
+
+        <activity android:name="com.mediatek.galleryfeature.stereo.segment.GuideActivity"
+            android:theme="@style/android:Theme.Translucent.NoTitleBar"
+            android:configChanges="orientation|keyboardHidden|screenSize">
+            <intent-filter>
+                <action android:name="com.mediatek.segment.action.COPY_PASTE" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="image/*" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.mediatek.galleryfeature.stereo.segment.refine.StereoRefineActivity"
+            android:label="@string/m_refine_select_obj_title"
+            android:taskAffinity="com.mediatek.galleryfeature.stereo.segment.StereoRefineActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.mediatek.segment.action.REFINE" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="image/*" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.mediatek.galleryfeature.stereo.segment.synth.StereoSynthActivity"
+            android:label="Copy And Paste"
+            android:taskAffinity="com.mediatek.galleryfeature.stereo.segment.StereoRefineActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize">
+            <intent-filter>
+                <action android:name="com.mediatek.segment.action.SYNTH" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="image/*" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.mediatek.galleryfeature.stereo.segment.refine.SourceImagePicker"
+            android:configChanges="orientation|keyboardHidden|screenSize">
+        </activity>
+    </application>
+</manifest>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">主要對象琢磨</string>
+    <string name="m_fancy_color_effect_normal">正常</string>
+    <string name="m_fancy_color_effect_monochrome">單色調</string>
+    <string name="m_fancy_color_effect_posterize">色調分離</string>
+    <string name="m_fancy_color_effect_radial_blur">模糊光線</string>
+    <string name="m_fancy_color_effect_stroke">素描</string>
+    <string name="m_fancy_color_effect_silhouette">剪影</string>
+    <string name="m_fancy_color_effect_whiteboard">白板</string>
+    <string name="m_fancy_color_effect_blackboard">黑板</string>
+    <string name="m_fancy_color_effect_negative">負片</string>
+    <string name="m_general_err_tip">出現錯誤。應用程式將退出。</string>
+    <string name="m_fancy_color_label">繽紛顏色</string>
+    <string name="app_name">繽紛顏色</string>
+    <string name="save">儲存</string>
+    <string name="saving_image">正在儲存圖片\u2026</string>
+    <string name="m_saving_image">正在儲存圖片到<xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">“權限被拒絕。您可以在設定-&gt;應用程式作出修改。”</string>
+</resources>

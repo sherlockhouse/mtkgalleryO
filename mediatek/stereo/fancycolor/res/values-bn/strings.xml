@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"মূল বস্তু পরিশোধন করুন"</string>
+    <string name="m_fancy_color_effect_normal">"সাধারণ"</string>
+    <string name="m_fancy_color_effect_monochrome">"মনোক্রম"</string>
+    <string name="m_fancy_color_effect_posterize">পোস্টারাইজ</string>
+    <string name="m_fancy_color_effect_radial_blur">"র‍্যাডিয়াল ব্লার"</string>
+    <string name="m_fancy_color_effect_stroke">স্ট্রক</string>
+    <string name="m_fancy_color_effect_silhouette">"ছায়াচিত্র"</string>
+    <string name="m_fancy_color_effect_whiteboard">হোয়াইটবোর্ড</string>
+    <string name="m_fancy_color_effect_blackboard">ব্ল্যাকবোর্ড</string>
+    <string name="m_fancy_color_effect_negative">নেগেটিভ</string>
+    <string name="m_general_err_tip">ত্রুটিহচ্ছে।অ্যাপছাড়বে।</string>
+    <string name="m_fancy_color_label">ফ্যান্সি কালার</string>
+    <string name="app_name">ফ্যান্সিকালার</string>
+    <string name="save">সংরক্ষণ করুন</string>
+    <string name="saving_image">ছবি সংরক্ষণ করা হচ্ছে\u2026</string>
+    <string name="m_saving_image">ছবি <xliff:g id="album_name">%1$s</xliff:g> সংরক্ষণ করা হচ্ছে\u2026</string>
+    <string name="denied_required_permission">"অনুমতি প্রত্যাখান করা হয়েছে। আপনি সেটিং-&gt;অ্যাপ-এ তা পরিবর্তন করতে পারেন।"</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        id="StereoEntry"
+        name="Stereo Entry"
+        version="1"
+        xmlns="http://www.plugin.com"
+        xsi:schemaLocation="http://www.plugin.com ../../../plugin/assets/plugin.xsd">
+    <extension
+            id="StereField"
+            name="Stereo field"
+            class="com.mediatek.galleryfeature.stereoentry.StereoField"
+            plugin-id="Gallery2Root"
+            point-id="IFieldDefinition">
+    </extension>
+    <extension
+            id="StereoItem"
+            name="Stereo item"
+            class="com.mediatek.galleryfeature.stereoentry.StereoItem"
+            plugin-id="Gallery2Root"
+            point-id="ExtItem">
+    </extension>
+    <extension
+            id="StereoBottomControl"
+            name="Stereo bottom menu control "
+            class="com.mediatek.galleryfeature.stereoentry.StereoBottomControl"
+            plugin-id="Gallery2Root"
+            point-id="IBottomControl">
+    </extension>
+    <extension
+            id="StereoMember"
+            name="Stereo member"
+            class="com.mediatek.galleryfeature.stereoentry.StereoMember"
+            plugin-id="Gallery2Root"
+            point-id="MediaMember">
+    </extension>
+    <extension
+            id="StereoLayer"
+            name="Stereo Layer"
+            class="com.mediatek.galleryfeature.stereoentry.StereoLayer"
+            plugin-id="Gallery2Root"
+            point-id="Layer">
+    </extension>
+    <extension
+            id="StereoAlbumSlotRenderer"
+            name="Stereo album slot renderer"
+            class="com.mediatek.galleryfeature.stereoentry.StereoAlbumSlotRenderer"
+            plugin-id="Gallery2Root"
+            point-id="IAlbumSlotRenderer">
+    </extension>
+    <extension
+            id="StereoFilterShowImageSaver"
+            name="Stereo Filter Show ImageSaver"
+            class="com.mediatek.galleryfeature.stereoentry.StereoFilterShowImageSaver"
+            plugin-id="Gallery2Root"
+            point-id="IFilterShowImageSaver">
+    </extension>
+</plugin>

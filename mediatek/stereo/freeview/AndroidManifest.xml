@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.mediatek.freeview3d"
+    android:sharedUserId="android.uid.system"
+    android:versionCode="6"
+    android:versionName="1.1.6" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application tools:replace="android:icon,android:label,android:theme"
+        android:icon="@drawable/ic_launcher"
+        android:theme="@android:style/Theme.Material"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true" >
+        <activity android:name="com.mediatek.freeview3d.FreeViewActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+            android:background="@android:color/black"
+            android:label="@string/app_name">
+           <intent-filter>
+                <action android:name="com.android.gallery3d.action.FREEVIEW" />
+                <data android:scheme="content" />
+                <data android:scheme="file" />
+                <data android:mimeType="image/*" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.ALTERNATIVE" />
+                <category android:name="android.intent.category.SELECTED_ALTERNATIVE" />
+            </intent-filter>
+        </activity>
+
+    </application>
+</manifest>

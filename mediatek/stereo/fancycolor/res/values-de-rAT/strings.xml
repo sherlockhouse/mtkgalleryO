@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"Hauptobjekt verfeinern"</string>
+    <string name="m_fancy_color_effect_normal">"Normal"</string>
+    <string name="m_fancy_color_effect_monochrome">"Einfarbig"</string>
+    <string name="m_fancy_color_effect_posterize">Tontrennung</string>
+    <string name="m_fancy_color_effect_radial_blur">"Radiale Unschärfe"</string>
+    <string name="m_fancy_color_effect_stroke">"Striche"</string>
+    <string name="m_fancy_color_effect_silhouette">"Silhouette"</string>
+    <string name="m_fancy_color_effect_whiteboard">Whiteboard</string>
+    <string name="m_fancy_color_effect_blackboard">Blackboard</string>
+    <string name="m_fancy_color_effect_negative">Negativ</string>
+    <string name="m_general_err_tip">Fehleraufgetreten.Appwirdbeendet.</string>
+    <string name="m_fancy_color_label">Kräftige Farben</string>
+    <string name="app_name">FancyColor</string>
+    <string name="save">"Speichern"</string>
+    <string name="saving_image">Bild speichern \u2026</string>
+    <string name="m_saving_image">Bild in <xliff:g id="album_name">%1$s</xliff:g> speichern \u2026</string>
+    <string name="denied_required_permission">"Berechtigung verweigert Dies können Sie unter Einstellungen &gt; Apps ändern."</string>
+</resources>

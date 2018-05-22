@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"ပင္မအရာဝတၳဳကို ေကာင္းမြန္ေအာင္ ျပန္လုပ္ပါ"</string>
+    <string name="m_fancy_color_effect_normal">"ပံုမွန္"</string>
+    <string name="m_fancy_color_effect_monochrome">"အျဖဴအမည္း"</string>
+    <string name="m_fancy_color_effect_posterize">အေရာင္တစ္မ်ဳိးတည္း</string>
+    <string name="m_fancy_color_effect_radial_blur">"႐ုပ္ပံု အတြင္း/အျပင္ မႈန္ဝါးျခင္း"</string>
+    <string name="m_fancy_color_effect_stroke">"ေဆးခ်က္"</string>
+    <string name="m_fancy_color_effect_silhouette">"အျဖဴခံအနက္ေကာက္ေၾကာင္းရုပ္ပုံ"</string>
+    <string name="m_fancy_color_effect_whiteboard">အျဖဴေရာင္ေနာက္ခံ</string>
+    <string name="m_fancy_color_effect_blackboard">အမည္းေရာင္ေနာက္ခံ</string>
+    <string name="m_fancy_color_effect_negative">ေလွ်ာ့ခ်ခ်က္</string>
+    <string name="m_general_err_tip">မွားယြင္းမႈျဖစ္ေပၚသည္အပလီေကးရွင္းသည္ရပ္စဲသြားပါလိမ့္မည္။</string>
+    <string name="m_fancy_color_label">ဖန္စီ အေရာင္</string>
+    <string name="app_name">ဆန္းျပားသည့္အေရာင္</string>
+    <string name="save">သိမ္းဆည္းပါ</string>
+    <string name="saving_image">႐ုပ္ပံုသိမ္းေနသည္\u2026</string>
+    <string name="m_saving_image"><xliff:g id="album_name">%1$s</xliff:g> သို႔ ႐ုပ္ပံုသိမ္းေနသည္\u2026</string>
+    <string name="denied_required_permission">"ခြင့္ျပဳခ်က္ တားျမစ္ထားသည္"။ ၎တို႔ကို ဆက္တင္မ်ား -&gt; အက္ပ္မ်ားတြင္ ေျပာင္းႏုိင္သည္။"</string>
+</resources>

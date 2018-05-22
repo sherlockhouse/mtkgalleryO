@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.mediatek.galleryfeature.stereo.segment.background"
+    android:sharedUserId="android.uid.system"
+    android:versionCode="6"
+    android:versionName="1.1.6" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application tools:replace="android:icon,android:label,android:theme"
+        android:theme="@android:style/Theme.Material"
+        android:icon="@drawable/m_background"
+        android:label="@string/m_stereo_background"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:largeHeap="true" >
+
+        <uses-library android:name="com.mediatek.photopicker" />
+
+        <activity
+            android:name="com.mediatek.galleryfeature.stereo.segment.background.StereoBackgroundActivity"
+            android:label="Background Substitution"
+            android:taskAffinity="com.mediatek.galleryfeature.stereo.segment.StereoRefineActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+            android:background="@android:color/black">
+            <intent-filter>
+                <action android:name="com.mediatek.background.action.BACKGROUND" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="image/*" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.mediatek.galleryfeature.stereo.segment.background.BackgroundPicker"
+            android:configChanges="orientation|keyboardHidden|screenSize">
+        </activity>
+
+    </application>
+</manifest>

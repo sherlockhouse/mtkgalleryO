@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">"kopieraochklistrain"</string>
+    <string name="saving_image">Sparar bild\u2026</string>
+    <string name="filtershow_saving_image">Sparar bild i <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Det går inte att läsa in bilden."</string>
+    <string name="m_refine_cancel">AVBRYT</string>
+    <string name="m_refine_refine">FÖRFINA</string>
+    <string name="m_refine_undo">"ÅNGRA"</string>
+    <string name="m_refine_done">"Klar"</string>
+    <string name="m_refine_save_clipping">Spara till Urklipp</string>
+    <string name="m_refine_saved_clipping">Sparade bilden till Urklipp.</string>
+    <string name="m_refine_select_obj_title">Välj objekt</string>
+    <string name="m_refine_refine_obj_title">Förfina objekt</string>
+
+    <string name="m_save">"Spara"</string>
+    <string name="m_stereo_refine_original_photo">Förfina originalbilden</string>
+    <string name="m_pick_photo_to_copy">Välj en bild att kopiera</string>
+
+    <string name="m_clippings">Urklipp</string>
+    <string name="m_no_stereo_image">Inga stereobilder.</string>
+    <string name="m_stereo_refine_zoom">"Zooma"</string>
+    <string name="m_stereo_refine_add_detail">Lägg till information</string>
+    <string name="m_stereo_refine_subtract_detail">Ta bort information</string>
+    <string name="m_stereo_synth_move_front">Flytta till fram</string>
+    <string name="m_stereo_synth_move_back">Flytta till bak</string>
+    <string name="m_general_err_tip">Ettfelharinträffat.Programmetavslutas.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_refocus">"রিফোকাসকরুন"</string>
+    <string name="m_stereo_copy_paste">"কপিওপেস্ট"</string>
+    <string name="m_stereo_background">পটভূমি</string>
+    <string name="m_stereo_fancy_color">"উজ্জ্বলরং"</string>
+</resources>

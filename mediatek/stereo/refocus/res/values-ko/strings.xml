@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="share">"공유"</string>
+	<string name="save">"저장"</string>
+    <string name="app_name">초점다시맞추기</string>
+    <string name="set_image">"사진을 다음으로 설정"</string>
+    <string name="saving_image">사진 저장 중\u2026</string>
+    <string name="m_please_wait">"잠시기다려주세요."</string>
+    <string name="cannot_load_image">"이미지를 로드할 수 없습니다."</string>
+	<string name="m_refocus_label">이미지 초점 다시 맞추기</string>
+    <string name="m_saving_image">사진을 <xliff:g id="album_name">%1$s</xliff:g>에 저장 중 \u2026</string>
+    <string name="m_refocus_save_fail">저장 실패</string>
+    <string name="set_as">"다음으로 설정"</string>
+    <string name="loading_image">이미지 로드 중\u2026</string>
+    <string name="m_general_err_tip">오류가발생했습니다.앱이종료됩니다.</string>
+</resources>

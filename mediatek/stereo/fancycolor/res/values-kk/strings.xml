@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"Негізгі нысанды нақтылау"</string>
+    <string name="m_fancy_color_effect_normal">"Қалыпты"</string>
+    <string name="m_fancy_color_effect_monochrome">"Монохром"</string>
+    <string name="m_fancy_color_effect_posterize">Контурлау</string>
+    <string name="m_fancy_color_effect_radial_blur">"Радиалды бұлыңғырлық"</string>
+    <string name="m_fancy_color_effect_stroke">"Жүріс"</string>
+    <string name="m_fancy_color_effect_silhouette">"Силуэт"</string>
+    <string name="m_fancy_color_effect_whiteboard">Ақ тақта</string>
+    <string name="m_fancy_color_effect_blackboard">Қара тақта</string>
+    <string name="m_fancy_color_effect_negative">Негатив</string>
+    <string name="m_general_err_tip">Қатеорыналады.Бағдарламаданшығады.</string>
+    <string name="m_fancy_color_label">Ерекше түс</string>
+    <string name="app_name">FancyColor</string>
+    <string name="save">"Сақтау"</string>
+    <string name="saving_image">Сурет сақтау\u2026</string>
+    <string name="m_saving_image"><xliff:g id="album_name">%1$s</xliff:g> альбомына сурет сақтау \u2026</string>
+    <string name="denied_required_permission">"Рұқсат берілмейді. Оларды Параметрлер -&gt; Қолданбалар ішінен өзгерте аласыз."</string>
+</resources>

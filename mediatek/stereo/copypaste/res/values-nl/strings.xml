@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">kopiërenenplakken</string>
+    <string name="saving_image">Afbeelding opslaan\u2026</string>
+    <string name="filtershow_saving_image">Afbeelding opslaan in <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Kan de afbeelding niet laden."</string>
+    <string name="m_refine_cancel">ANNULEREN</string>
+    <string name="m_refine_refine">VERFIJNEN</string>
+    <string name="m_refine_undo">"ONGEDAAN MAKEN"</string>
+    <string name="m_refine_done">"Gereed"</string>
+    <string name="m_refine_save_clipping">Opslaan in Knipsels</string>
+    <string name="m_refine_saved_clipping">Afbeelding opgeslagen in Knipsels.</string>
+    <string name="m_refine_select_obj_title">Object selecteren</string>
+    <string name="m_refine_refine_obj_title">Object verfijnen</string>
+
+    <string name="m_save">"Opslaan"</string>
+    <string name="m_stereo_refine_original_photo">De originele foto verfijnen</string>
+    <string name="m_pick_photo_to_copy">Een te kopiëren foto kiezen</string>
+
+    <string name="m_clippings">Knipsels</string>
+    <string name="m_no_stereo_image">Geen stereobeelden</string>
+    <string name="m_stereo_refine_zoom">"In-/uitzoomen"</string>
+    <string name="m_stereo_refine_add_detail">Detail toevoegen</string>
+    <string name="m_stereo_refine_subtract_detail">Detail aftrekken</string>
+    <string name="m_stereo_synth_move_front">Naar voren verplaatsen</string>
+    <string name="m_stereo_synth_move_back">Naar achteren verplaatsen</string>
+    <string name="m_general_err_tip">Eriseenfoutopgetreden.Deappsluitaf.</string>
+</resources>

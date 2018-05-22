@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="share">"Jaga"</string>
+	<string name="save">"Salvesta"</string>
+    <string name="app_name">"fookustauuesti“</string>
+    <string name="set_image">"Seadke pilt kui"</string>
+    <string name="saving_image">Pildi salvestamine\u2026</string>
+    <string name="m_please_wait">"Palun oodake"</string>
+    <string name="cannot_load_image">"Pilti ei saa laadida!"</string>
+	<string name="m_refocus_label">Fookusta pilt uuesti</string>
+    <string name="m_saving_image">Pildi salvestamine kausta <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="m_refocus_save_fail">Salvestamine nurjus</string>
+    <string name="set_as">"Seadista kui"</string>
+    <string name="loading_image">Pildi laadimine\u2026</string>
+    <string name="m_general_err_tip">Ilmnestõrge..Rakendussulgub.</string>
+</resources>

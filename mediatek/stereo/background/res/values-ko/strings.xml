@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_background">"배경"</string>
+    <string name="saving_image">사진 저장 중\u2026</string>
+    <string name="filtershow_saving_image">사진을 <xliff:g id="album_name">%1$s</xliff:g>에 저장 중 \u2026</string>
+    <string name="cannot_load_image">"이미지를 로드할 수 없습니다."</string>
+    <string name="m_save">"저장"</string>
+    <string name="m_stereo_refine_foreground">전경 미세 조정</string>
+    <string name="m_original">"원본"</string>
+    <string name="m_gallery">"갤러리"</string>
+    <string name="m_general_err_tip">오류가 발생합니다. 앱이 종료됩니다.</string>
+</resources>

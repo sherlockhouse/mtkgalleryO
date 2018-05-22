@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">kopierenundeinfügen</string>
+    <string name="saving_image">Bild wird gespeichert\u2026</string>
+    <string name="filtershow_saving_image">Bild wird in <xliff:g id="album_name">%1$s</xliff:g> gespeichert\u2026</string>
+    <string name="cannot_load_image">"Bild kann nicht geladen werden."</string>
+    <string name="m_refine_cancel">Abbrechen</string>
+    <string name="m_refine_refine">Verfeinern</string>
+    <string name="m_refine_undo">"Rückgängig"</string>
+    <string name="m_refine_done">"Fertig"</string>
+    <string name="m_refine_save_clipping">In Ausschnitten speichern</string>
+    <string name="m_refine_saved_clipping">Bild in Ausschnitten gespeichert.</string>
+    <string name="m_refine_select_obj_title">Objekt wählen</string>
+    <string name="m_refine_refine_obj_title">Objekt verfeinern</string>
+
+    <string name="m_save">"Speichern"</string>
+    <string name="m_stereo_refine_original_photo">Originalfoto verfeinern</string>
+    <string name="m_pick_photo_to_copy">Ein Foto zum Kopieren wählen</string>
+
+    <string name="m_clippings">Clippings</string>
+    <string name="m_no_stereo_image">Keine Stereobilder.</string>
+    <string name="m_stereo_refine_zoom">"Zoomen"</string>
+    <string name="m_stereo_refine_add_detail">Details zufügen</string>
+    <string name="m_stereo_refine_subtract_detail">Details entfernen</string>
+    <string name="m_stereo_synth_move_front">Nach vorne verschieben</string>
+    <string name="m_stereo_synth_move_back">Nach hinten verschieben</string>
+    <string name="m_general_err_tip">Fehler.Appwirdbeendet.</string>
+</resources>

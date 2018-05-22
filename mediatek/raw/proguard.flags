@@ -1,0 +1,2 @@
+-keep class com.mediatek.galleryraw.** { *; }
+-keep class com.mediatek.gallerybasic.** { *; }

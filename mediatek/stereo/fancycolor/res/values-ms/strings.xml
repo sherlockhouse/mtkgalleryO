@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"Perhalusi objek utama"</string>
+    <string name="m_fancy_color_effect_normal">"biasa"</string>
+    <string name="m_fancy_color_effect_monochrome">Monokrom</string>
+    <string name="m_fancy_color_effect_posterize">"Pmposteran"</string>
+    <string name="m_fancy_color_effect_radial_blur">"Kabur jejari"</string>
+    <string name="m_fancy_color_effect_stroke">Lejang</string>
+    <string name="m_fancy_color_effect_silhouette">Bebayang</string>
+    <string name="m_fancy_color_effect_whiteboard">Papan putih</string>
+    <string name="m_fancy_color_effect_blackboard">Papan hitam</string>
+    <string name="m_fancy_color_effect_negative">"Negatif"</string>
+    <string name="m_general_err_tip">Ralatberlaku.Aplakankeluar.</string>
+    <string name="m_fancy_color_label">Warna beraneka</string>
+    <string name="app_name">Warna Beraneka</string>
+    <string name="save">"Simpan"</string>
+    <string name="saving_image">Menyimpan gambar\u2026</string>
+    <string name="m_saving_image">Menyimpan gambar ke <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">"Kebenaran ditolak. Anda boleh mengubahnya dalam Tetapan -&gt; Aplikasi."</string>
+</resources>

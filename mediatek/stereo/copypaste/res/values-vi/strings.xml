@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">"chép&amp;dán"</string>
+    <string name="saving_image">Đang lưu hình\u2026</string>
+    <string name="filtershow_saving_image">Đang lưu hình vào <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Không thể tải hình ảnh!"</string>
+    <string name="m_refine_cancel">HỦY</string>
+    <string name="m_refine_refine">TINHCHỈNH</string>
+    <string name="m_refine_undo">"HOÀN TÁC"</string>
+    <string name="m_refine_done">"Hoàn tất"</string>
+    <string name="m_refine_save_clipping">Lưu vào Clippings</string>
+    <string name="m_refine_saved_clipping">Đã lưu hình vào Clippings.</string>
+    <string name="m_refine_select_obj_title">Chọn đối tượng</string>
+    <string name="m_refine_refine_obj_title">Tinh chỉnh đối tượng</string>
+
+    <string name="m_save">"Lưu"</string>
+    <string name="m_stereo_refine_original_photo">Tinh chỉnh ảnh gốc</string>
+    <string name="m_pick_photo_to_copy">Chọn ảnh cần sao chép</string>
+
+    <string name="m_clippings">Mẫubáo</string>
+    <string name="m_no_stereo_image">Ko có hình âm thanh nổi.</string>
+    <string name="m_stereo_refine_zoom">"Thu phóng"</string>
+    <string name="m_stereo_refine_add_detail">Cộng chi tiết</string>
+    <string name="m_stereo_refine_subtract_detail">Trừ chi tiết</string>
+    <string name="m_stereo_synth_move_front">Chuyển đến trước</string>
+    <string name="m_stereo_synth_move_back">Chuyển ra sau</string>
+    <string name="m_general_err_tip">Đãxảyralỗi.Ứ.dụngsẽthoát.</string>
+</resources>

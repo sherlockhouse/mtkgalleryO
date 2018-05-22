@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="PickerBaseTheme" parent="@android:Theme.Material">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+    <style name="PickerTheme" parent="PickerBaseTheme">
+        <item name="android:typeface">sans</item>
+    </style>
+</resources>

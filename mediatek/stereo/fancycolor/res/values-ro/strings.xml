@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"Rafinare obiect principal"</string>
+    <string name="m_fancy_color_effect_normal">"Normal"</string>
+    <string name="m_fancy_color_effect_monochrome">„Monocrom”</string>
+    <string name="m_fancy_color_effect_posterize">"Posterizare"</string>
+    <string name="m_fancy_color_effect_radial_blur">"Estompare radială"</string>
+    <string name="m_fancy_color_effect_stroke">„Trăsătură”</string>
+    <string name="m_fancy_color_effect_silhouette">„Siluetă”</string>
+    <string name="m_fancy_color_effect_whiteboard">Tablă albă</string>
+    <string name="m_fancy_color_effect_blackboard">Tablă neagră</string>
+    <string name="m_fancy_color_effect_negative">"Negativ"</string>
+    <string name="m_general_err_tip">S-aprodusoeroare.Aplicaţiasevaînchide.</string>
+    <string name="m_fancy_color_label">Culoare extravagantă</string>
+    <string name="app_name">FancyColor</string>
+    <string name="save">"Salvați"</string>
+    <string name="saving_image">Se salvează imaginea\u2026</string>
+    <string name="m_saving_image">Se salvează imaginea în <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">"Permisiuni respinse. Puteți modifica permisiunile în Setări -&gt; Aplicații."</string>
+</resources>

@@ -1,0 +1,14 @@
+LOCAL_PATH := $(call my-dir)
+include $(CLEAR_VARS)
+
+LOCAL_MODULE_PATH := $(PRODUCT_OUT)/$(TARGET_COPY_OUT_VENDOR)/etc/gallery
+LOCAL_MODULE_TAGS := optional
+
+LOCAL_SRC_FILES := $(LOCAL_PATH)/src
+LOCAL_RESOURCE_DIR += $(LOCAL_PATH)/res
+LOCAL_PACKAGE_NAME := Gallery2Root
+LOCAL_CERTIFICATE := platform
+LOCAL_PROGUARD_FLAG_FILES := proguard.flags
+
+include $(BUILD_PACKAGE)
+

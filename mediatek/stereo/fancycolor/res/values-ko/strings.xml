@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"주 개체 미세 조정"</string>
+    <string name="m_fancy_color_effect_normal">"일반"</string>
+    <string name="m_fancy_color_effect_monochrome">단색</string>
+    <string name="m_fancy_color_effect_posterize">"포스터"</string>
+    <string name="m_fancy_color_effect_radial_blur">"배경을 흐르게"</string>
+    <string name="m_fancy_color_effect_stroke">스트로크</string>
+    <string name="m_fancy_color_effect_silhouette">실루엣</string>
+    <string name="m_fancy_color_effect_whiteboard">화이트보드</string>
+    <string name="m_fancy_color_effect_blackboard">블랙보드</string>
+    <string name="m_fancy_color_effect_negative">"네거티브"</string>
+    <string name="m_general_err_tip">오류가발생했습니다.앱이종료됩니다.</string>
+    <string name="m_fancy_color_label">팬시 컬러</string>
+    <string name="app_name">Fancy Color</string>
+    <string name="save">"저장"</string>
+   <string name="saving_image">사진 저장 중\u2026</string>
+    <string name="m_saving_image">사진을 <xliff:g id="album_name">%1$s</xliff:g>에 저장 중 \u2026</string>
+    <string name="denied_required_permission">"승인이 거부되었습니다. 설정 -&gt; 앱에서 변경할 수 있습니다."</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">αντιγραφ?&amp;επικ?λληση</string>
+    <string name="saving_image">Αποθήκευση εικόνας\u2026</string>
+    <string name="filtershow_saving_image">Αποθήκευση εικόνας σε <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Δεν είναι δυνατή η φόρτωση της εικόνας!"</string>
+    <string name="m_refine_cancel">ΆΚΥΡΟ</string>
+    <string name="m_refine_refine">ΡΑΦΙΝΑΡΙΣΜΑ</string>
+    <string name="m_refine_undo">"ΑΝΑΙΡΕΣΗ"</string>
+    <string name="m_refine_done">"Τέλος"</string>
+    <string name="m_refine_save_clipping">Αποθήκευση σε Περικοπές</string>
+    <string name="m_refine_saved_clipping">Η εικόνα αποθηκεύτηκε σε Περικοπές.</string>
+    <string name="m_refine_select_obj_title">Επιλέξτε αντικείμενο</string>
+    <string name="m_refine_refine_obj_title">Βελτίωση αντικειμένου</string>
+
+    <string name="m_save">"Αποθήκευση"</string>
+    <string name="m_stereo_refine_original_photo">Βελτιώστε την αρχική φωτογραφία</string>
+    <string name="m_pick_photo_to_copy">Επιλέξτε μια φωτογραφία για αντιγραφή</string>
+
+    <string name="m_clippings">Αποκόμματα</string>
+    <string name="m_no_stereo_image">Δεν υπάρχουν στερεοφωνικές εικόνες.</string>
+    <string name="m_stereo_refine_zoom">"Εστίαση"</string>
+    <string name="m_stereo_refine_add_detail">Προσθήκη λεπτομέρειας</string>
+    <string name="m_stereo_refine_subtract_detail">Αφαίρεση λεπτομέρειας</string>
+    <string name="m_stereo_synth_move_front">Μετακίνηση προς τα εμπρός</string>
+    <string name="m_stereo_synth_move_back">Μετακίνηση προς τα πίσω</string>
+    <string name="m_general_err_tip">Προέκυψεσφάλμα.Έξοδοςαπότηνεφαρμογή.</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">salin&amp;tampal</string>
+    <string name="saving_image">Menyimpan gambar\u2026</string>
+    <string name="filtershow_saving_image">Menyimpan gambar ke <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Tidak dapat memuatkan imej!"</string>
+    <string name="m_refine_cancel">BATAL</string>
+    <string name="m_refine_refine">PERHALUSI</string>
+    <string name="m_refine_undo">"BUAT ASAL"</string>
+    <string name="m_refine_done">"Selesai"</string>
+    <string name="m_refine_save_clipping">Simpan pada Pengklipan</string>
+    <string name="m_refine_saved_clipping">Gambar disimpan pada Pengklipan.</string>
+    <string name="m_refine_select_obj_title">Pilih objek</string>
+    <string name="m_refine_refine_obj_title">Perhalusi objek</string>
+
+    <string name="m_save">"Simpan"</string>
+    <string name="m_stereo_refine_original_photo">Perhalusi foto asal</string>
+    <string name="m_pick_photo_to_copy">Pilih foto untuk disalin</string>
+
+    <string name="m_clippings">Klip</string>
+    <string name="m_no_stereo_image">Tiada imej stereo.</string>
+    <string name="m_stereo_refine_zoom">"Zum"</string>
+    <string name="m_stereo_refine_add_detail">Tambah butiran</string>
+    <string name="m_stereo_refine_subtract_detail">Tolak butiran</string>
+    <string name="m_stereo_synth_move_front">Alih ke depan</string>
+    <string name="m_stereo_synth_move_back">Alih ke belakang</string>
+    <string name="m_general_err_tip">Ralatberlaku.Aplakankeluar.</string>
+</resources>

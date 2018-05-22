@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="share">"Sdílet"</string>
+	<string name="save">"Uložit"</string>
+    <string name="app_name">znovuzaostřit</string>
+    <string name="set_image">"Nastavit fotku jako"</string>
+    <string name="saving_image">Ukládání obrázku\u2026</string>
+    <string name="m_please_wait">"Čekejte prosím"</string>
+    <string name="cannot_load_image">"Obrázek nelze načíst!"</string>
+	<string name="m_refocus_label">Znovu zaostřit obrázek</string>
+    <string name="m_saving_image">Ukládání obrázku do <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="m_refocus_save_fail">Uložení se nezdařilo</string>
+    <string name="set_as">"Nastavit jako"</string>
+    <string name="loading_image">Načítání obrázku\u2026</string>
+    <string name="m_general_err_tip">Došlokchybě.Aplikacebudeukončena.</string>
+</resources>

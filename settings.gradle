@@ -1,0 +1,18 @@
+include ':mediatek:basic',
+        ':mediatek:stereo:stereoinfoaccessor',
+        ':mediatek:root',
+        ':mediatek:gif',
+        ':mediatek:raw',
+        ':mediatek:pqtool',
+        ':mediatek:pq',
+        ':mediatek:stereo:stereoapplication',
+        ':mediatek:stereo:fancycolor',
+        ':mediatek:stereo:copypaste',
+        ':mediatek:stereo:background',
+        ':mediatek:stereo:refocus',
+        ':mediatek:stereo_entry',
+        ':mediatek:stereo:photopicker',
+        ':mediatek:stereo:freeview',
+        ':mediatek:drm',
+        ':mediatek:stereo_thumbnail'
+

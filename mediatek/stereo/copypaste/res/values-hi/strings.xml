@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">"कॉपीएवंपेस्टकरें"</string>
+    <string name="saving_image">चित्र सहेज रहा है\u2026</string>
+    <string name="filtershow_saving_image">चित्र को <xliff:g id="album_name">%1$s</xliff:g> में सहेज रहा है\u2026</string>
+    <string name="cannot_load_image">"चित्र लोड नहीं हो सकता!"</string>
+    <string name="m_refine_cancel">रद्दकरें</string>
+    <string name="m_refine_refine">परिष्कृतकरें</string>
+    <string name="m_refine_undo">"पूर्ववत करें"</string>
+    <string name="m_refine_done">"पूर्ण"</string>
+    <string name="m_refine_save_clipping">क्लिपिंग में सहेजें</string>
+    <string name="m_refine_saved_clipping">चित्र को क्लिपिंग में सहेजा।</string>
+    <string name="m_refine_select_obj_title">लक्ष्य चुनें</string>
+    <string name="m_refine_refine_obj_title">लक्ष्य को परिष्कृत करें</string>
+
+    <string name="m_save">"सहेजें"</string>
+    <string name="m_stereo_refine_original_photo">मूल फ़ोटो को परिष्कृत करें</string>
+    <string name="m_pick_photo_to_copy">कॉपी करने के लिए एक फ़ोटो चुनें</string>
+
+    <string name="m_clippings">क्लिपिंग</string>
+    <string name="m_no_stereo_image">कोई स्टीरियो छवियाँ नहीं।</string>
+    <string name="m_stereo_refine_zoom">"ज़ूम करें"</string>
+    <string name="m_stereo_refine_add_detail">विवरण जोड़ें</string>
+    <string name="m_stereo_refine_subtract_detail">विवरण कम करें</string>
+    <string name="m_stereo_synth_move_front">सामने ले जाएँ</string>
+    <string name="m_stereo_synth_move_back">पीछे ले जाएँ</string>
+    <string name="m_general_err_tip">त्रुटिघटितहुई।एप्लिकेशनबंदहोजाएगा।</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">"copy&amp;paste"</string>
+    <!-- Toast/alert that the image is being saved to the SD card -->
+    <string name="saving_image">Saving picture\u2026</string>
+    <!-- Toast/alert that the image is being saved after editing in filtershow [CHAR LIMIT=40]-->
+    <string name="filtershow_saving_image">Saving picture to <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <!--  String shown when we cannot load the image when starting the activity [CHAR LIMIT=NONE] -->
+    <string name="cannot_load_image">Cannot load the image!</string>
+
+    <!-- Segment Part begin -->
+    <string name="m_refine_cancel">CANCEL</string>
+    <string name="m_refine_refine">REFINE</string>
+    <string name="m_refine_undo">UNDO</string>
+    <string name="m_refine_done">DONE</string>
+    <string name="m_refine_save_clipping">Save to Clippings</string>
+    <string name="m_refine_saved_clipping">Saved picture to Clippings.</string>
+    <string name="m_refine_select_obj_title">Select object</string>
+    <string name="m_refine_refine_obj_title">Refine object</string>
+    <string name="m_save">Save</string>
+    <string name="m_stereo_refine_original_photo">Refine the original photo</string>
+    <string name="m_pick_photo_to_copy">Pick a photo to copy</string>
+    <string name="m_clippings">Clippings</string>
+    <string name="m_no_stereo_image">No stereo images.</string>
+    <string name="m_stereo_refine_zoom">Zoom</string>
+    <string name="m_stereo_refine_add_detail">Add detail</string>
+    <string name="m_stereo_refine_subtract_detail">Subtract detail</string>
+    <string name="m_stereo_synth_move_front">Move to front</string>
+    <string name="m_stereo_synth_move_back">Move to back</string>
+    <!-- Segment Part end -->
+
+    <string name="m_general_err_tip">Error occurs. App will quit.</string>
+</resources>
+

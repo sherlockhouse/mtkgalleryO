@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="share">"Տարածել"</string>
+	<string name="save">"Պահել"</string>
+    <string name="app_name">"վերակիզակետել"</string>
+    <string name="set_image">"Սահմանել նկարը որպես"</string>
+    <string name="saving_image">Նկարը պահվում է\u2026</string>
+    <string name="m_please_wait">"Խնդրում ենք սպասել"</string>
+    <string name="cannot_load_image">"Չհաջողվեց բեռնել պատկերը:"</string>
+	<string name="m_refocus_label">Կրկին ֆոկուսավորել պատկերը</string>
+    <string name="m_saving_image">Նկարը պահվում է առ <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="m_refocus_save_fail">Չհաջողվեց պահել</string>
+    <string name="set_as">"Սահմանել որպես"</string>
+    <string name="loading_image">Բեռնվում է պատկեր\u2026</string>
+    <string name="m_general_err_tip">Սխալէտեղիունեցել:Ծրագիրըկփակվի:</string>
+</resources>

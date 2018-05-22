@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <dimen name="itemSize">100dp</dimen>
+     <dimen name="itemBorderWidth">2dp</dimen>
+     <!-- Item space between items in grid -->
+     <dimen name="itemSpace">5dp</dimen>
+
+     <!-- For label in item -->
+     <dimen name="label_font_size">12sp</dimen>
+</resources>

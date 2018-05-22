@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Title prompted for user to choose a photo item[default show] -->
+    <string name="photopicker_title">Select photo</string>
+    <!-- Toast message when permission denied -->
+    <string name="photopicker_permission_deny">Permissions denied.\nCan change in Settings-Apps-Permission.</string>
+</resources>

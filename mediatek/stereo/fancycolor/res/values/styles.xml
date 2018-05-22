@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FancyColorActionBarTheme" parent="@android:style/Theme.Material">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+    <style name="MyActionBar" parent="@android:style/Widget.ActionBar">
+        <item name="android:background">@color/m_dark_transparent_background</item>
+        <item name="android:actionBarDivider">@null</item>
+    </style>
+	<style name="ProgressDialog">
+        <item name="android:background">#99000000</item>
+    </style>
+</resources>

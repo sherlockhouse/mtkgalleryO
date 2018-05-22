@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_refocus">„újrafókuszálás”</string>
+    <string name="m_stereo_copy_paste">„másolásésbeillesztés”</string>
+    <string name="m_stereo_background">"HÁTTÉR"</string>
+    <string name="m_stereo_fancy_color">„fantáziaszín”</string>
+</resources>

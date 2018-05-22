@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_background">"taust"</string>
+    <string name="saving_image">Pildi salvestamine\u2026</string>
+    <string name="filtershow_saving_image">Pildi salvestamine kausta <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Pilti ei saa laadida!"</string>
+    <string name="m_save">"Salvesta"</string>
+    <string name="m_stereo_refine_foreground">Puhasta esiplaan</string>
+    <string name="m_original">"Originaal"</string>
+    <string name="m_gallery">"Galerii"</string>
+    <string name="m_general_err_tip">Ilmnes tõrge. Rakendus sulgub.</string>
+</resources>

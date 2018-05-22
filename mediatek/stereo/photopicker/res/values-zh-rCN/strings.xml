@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="photopicker_title">选择照片</string>
+    <string name="photopicker_permission_deny">Permissions denied.\nCan change in Settings-Apps-Permission.</string>
+</resources>
+

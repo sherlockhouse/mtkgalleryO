@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="share">শেয়ারকরুন</string>
+	<string name="save">সংরক্ষণ করুন</string>
+    <string name="app_name">"রিফোকাসকরুন"</string>
+    <string name="set_image">ছবি যেভাবে সেট করবেন</string>
+    <string name="saving_image">ছবি সংরক্ষণ করা হচ্ছে\u2026</string>
+    <string name="m_please_wait">" অপেক্ষা করুন"</string>
+    <string name="cannot_load_image">ছবিটি লোড করা যাবে না!</string>
+	<string name="m_refocus_label">ছবি রিফোকাস করুন</string>
+    <string name="m_saving_image">ছবি <xliff:g id="album_name">%1$s</xliff:g> সংরক্ষণ করা হচ্ছে\u2026</string>
+    <string name="m_refocus_save_fail">সংরক্ষণ করতে ব্যর্থ হয়েছে</string>
+    <string name="set_as">সেট করুন</string>
+    <string name="loading_image">ছবি লোড করা হচ্ছে\u2026</string>
+    <string name="m_general_err_tip">ত্রুটিহচ্ছে।অ্যাপছাড়বে।</string>
+</resources>

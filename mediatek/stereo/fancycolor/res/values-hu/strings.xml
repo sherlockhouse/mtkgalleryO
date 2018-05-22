@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"Fő objektum finomítása"</string>
+    <string name="m_fancy_color_effect_normal">"Normál"</string>
+    <string name="m_fancy_color_effect_monochrome">„Monokróm”</string>
+    <string name="m_fancy_color_effect_posterize">"Poszterizálás"</string>
+    <string name="m_fancy_color_effect_radial_blur">"Sugaras folt"</string>
+    <string name="m_fancy_color_effect_stroke">„Ütés”</string>
+    <string name="m_fancy_color_effect_silhouette">„Sziluett”</string>
+    <string name="m_fancy_color_effect_blackboard">Fekete tábla</string>
+    <string name="m_fancy_color_effect_negative">"Negatív"</string>
+    <string name="m_general_err_tip">Hibatörtént.Azalkalmazásbezárul.</string>
+    <string name="m_fancy_color_label">Fantáziaszín</string>
+    <string name="app_name">TarkaSzín</string>
+    <string name="save">"Mentés"</string>
+    <string name="saving_image">Kép mentése\u2026</string>
+    <string name="m_saving_image">Kép mentése ide: <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">"A hozzáférés megtagadva. Megváltoztathatja itt: Beállítások -&gt; Alkalmazások"</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">"kopiraj&amp;prilepi"</string>
+    <string name="saving_image">Shranjevanje slike \u2026</string>
+    <string name="filtershow_saving_image">Shranjevanje slike v album <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Slike ni mogoče naložiti."</string>
+    <string name="m_refine_cancel">PREKLIČI</string>
+    <string name="m_refine_refine">IZBOLJŠAJ</string>
+    <string name="m_refine_undo">"RAZVELJAVI"</string>
+    <string name="m_refine_done">"Končano"</string>
+    <string name="m_refine_save_clipping">Shrani v Izrezke</string>
+    <string name="m_refine_saved_clipping">Slika shranjena v Izrezke.</string>
+    <string name="m_refine_select_obj_title">Izberi predmet</string>
+    <string name="m_refine_refine_obj_title">Izpopolni predmet</string>
+
+    <string name="m_save">"Shrani"</string>
+    <string name="m_stereo_refine_original_photo">Izpopolni originalno fotografijo</string>
+    <string name="m_pick_photo_to_copy">Izberi fotografijo za kopiranje</string>
+
+    <string name="m_clippings">Izrezki</string>
+    <string name="m_no_stereo_image">Ni stereo slik.</string>
+    <string name="m_stereo_refine_zoom">"Povečaj/pomanj."</string>
+    <string name="m_stereo_refine_add_detail">Seštej podrobnosti</string>
+    <string name="m_stereo_refine_subtract_detail">Odšrej podrobnosti</string>
+    <string name="m_stereo_synth_move_front">Premakni v ospredje</string>
+    <string name="m_stereo_synth_move_back">Premakni v ozadje</string>
+    <string name="m_general_err_tip">Pojavljasenapaka.Aplikacijasebozaprla.</string>
+</resources>

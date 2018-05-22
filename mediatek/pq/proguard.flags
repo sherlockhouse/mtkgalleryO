@@ -1,0 +1,2 @@
+-keep class com.mediatek.galleryfeature.picturequality.** { *; }
+-keep class com.mediatek.gallerybasic.** { *; }

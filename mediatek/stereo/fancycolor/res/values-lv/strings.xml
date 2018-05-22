@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_refine_obj">"Uzlabot galveno objektu"</string>
+    <string name="m_fancy_color_effect_normal">"Normāls"</string>
+    <string name="m_fancy_color_effect_monochrome">Monohroms</string>
+    <string name="m_fancy_color_effect_posterize">"Plakāts"</string>
+    <string name="m_fancy_color_effect_radial_blur">"Radiāls izsmērējums"</string>
+    <string name="m_fancy_color_effect_stroke">Vilkums</string>
+    <string name="m_fancy_color_effect_silhouette">Siluets</string>
+    <string name="m_fancy_color_effect_whiteboard">Baltā tāfele</string>
+    <string name="m_fancy_color_effect_blackboard">Melnā tāfele</string>
+    <string name="m_fancy_color_effect_negative">"Negatīvs"</string>
+    <string name="m_general_err_tip">Rodaskļūda.Lietotnetiekaizvērta.</string>
+    <string name="m_fancy_color_label">Neparasta krāsa</string>
+    <string name="app_name">Lieliska krāsa</string>
+    <string name="save">"Saglabāt"</string>
+    <string name="saving_image">Saglabā attēlu\u2026</string>
+    <string name="m_saving_image">Saglabā attēlu<xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="denied_required_permission">"Atļauja liegta. Varat mainīt to šeit: Iestatījumi -&gt; Lietotnes."</string>
+</resources>

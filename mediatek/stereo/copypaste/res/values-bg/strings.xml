@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">"копиранеивмъкване"</string>
+    <string name="saving_image">Запис на картина\u2026</string>
+    <string name="filtershow_saving_image">Запис на картина в/във <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"Изображението не може да се зареди!"</string>
+    <string name="m_refine_cancel">ОТКАЗ</string>
+    <string name="m_refine_refine">ПОДОБРЯВАНЕ</string>
+    <string name="m_refine_undo">"ОТМЯНА"</string>
+    <string name="m_refine_done">"Готово"</string>
+    <string name="m_refine_save_clipping">Запис в Изрезки</string>
+    <string name="m_refine_saved_clipping">Картината е запазена в Изрезки</string>
+    <string name="m_refine_select_obj_title">Избор на обект</string>
+    <string name="m_refine_refine_obj_title">Фина настройка на обекта</string>
+
+    <string name="m_save">"Запазване"</string>
+    <string name="m_stereo_refine_original_photo">Фина настройка на оригинална снимка</string>
+    <string name="m_pick_photo_to_copy">Избор на снимка за копиране</string>
+
+    <string name="m_clippings">Изрезки</string>
+    <string name="m_no_stereo_image">Няма стерео изображения</string>
+    <string name="m_stereo_refine_zoom">"Мащаб: Промяна"</string>
+    <string name="m_stereo_refine_add_detail">Добавяне на детайл</string>
+    <string name="m_stereo_refine_subtract_detail">Изваждане на детайл</string>
+    <string name="m_stereo_synth_move_front">Премести напред</string>
+    <string name="m_stereo_synth_move_back">Премести назад</string>
+    <string name="m_general_err_tip">Възникнагрешка.Приложениетосеизключва.</string>
+</resources>

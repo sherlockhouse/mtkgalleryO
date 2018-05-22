@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">"コピー&amp;ペースト"</string>
+    <string name="saving_image">画像の保存\u2026</string>
+    <string name="filtershow_saving_image"><xliff:g id="album_name">%1$s</xliff:g>に画像を保存 \u2026</string>
+    <string name="cannot_load_image">"画像を読み込めません"</string>
+    <string name="m_refine_cancel">キャンセル</string>
+    <string name="m_refine_refine">絞り込み</string>
+    <string name="m_refine_undo">"元に戻す"</string>
+    <string name="m_refine_done">"完了"</string>
+    <string name="m_refine_save_clipping">クリッピングに保存する</string>
+    <string name="m_refine_saved_clipping">写真をクリッピングに保存しました。</string>
+    <string name="m_refine_select_obj_title">オブジェクトの選択</string>
+    <string name="m_refine_refine_obj_title">オブジェクトの絞り込み</string>
+
+    <string name="m_save">"保存"</string>
+    <string name="m_stereo_refine_original_photo">元の写真の絞り込み</string>
+    <string name="m_pick_photo_to_copy">コピーする写真を選択</string>
+
+    <string name="m_clippings">クリップ</string>
+    <string name="m_no_stereo_image">ステレオ画像なし。</string>
+    <string name="m_stereo_refine_zoom">"ズーム"</string>
+    <string name="m_stereo_refine_add_detail">詳細を追加</string>
+    <string name="m_stereo_refine_subtract_detail">減算の詳細</string>
+    <string name="m_stereo_synth_move_front">前に移動</string>
+    <string name="m_stereo_synth_move_back">後ろに移動</string>
+    <string name="m_general_err_tip">エラーが発生しました。アプリを終了します。</string>
+</resources>

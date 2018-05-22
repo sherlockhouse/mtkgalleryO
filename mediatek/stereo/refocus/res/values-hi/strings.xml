@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="share">"साझाकरें"</string>
+	<string name="save">"सहेजें"</string>
+    <string name="app_name">"पुनःफ़ोकसकरें"</string>
+    <string name="set_image">"चित्र इस रूप में सेट करें"</string>
+    <string name="saving_image">चित्र सहेज रहा है\u2026</string>
+    <string name="m_please_wait">"कृपया प्रतीक्षा करें..."</string>
+    <string name="cannot_load_image">"चित्र लोड नहीं हो सकता!"</string>
+	<string name="m_refocus_label">छवि पर पुनः फ़ोकस करें</string>
+    <string name="m_saving_image">चित्र को <xliff:g id="album_name">%1$s</xliff:g> में सहेज रहा है\u2026</string>
+    <string name="m_refocus_save_fail">सहेजने में असफल</string>
+    <string name="set_as">"इस रूप में सेट करें"</string>
+    <string name="loading_image">छवि लोड कर रहा हैe\u2026</string>
+    <string name="m_general_err_tip">त्रुटिघटितहुई।एप्लिकेशनबंदहोजाएगा।</string>
+</resources>

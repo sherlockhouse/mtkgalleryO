@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Pickphotoer background-black -->
+    <color name="color_background">#1A1A1A</color>
+	<!-- Background of item in GridView -->
+    <color name="color_errorbackground">#FFAAAA</color>
+
+    <!-- For label in item -->
+    <color name="label_background">#4C303030</color>
+    <color name="label_text">#FBFBFB</color>
+</resources>

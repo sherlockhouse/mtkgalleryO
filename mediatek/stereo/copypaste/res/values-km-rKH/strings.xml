@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="m_stereo_copy_paste">ចម្លង&amp;បិទភ្ជាប់</string>
+    <string name="saving_image">កំពុងរក្សាទុករូបភាព\u2026</string>
+    <string name="filtershow_saving_image">កំពុងរក្សាទុករូបភាពទៅកាន់<xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="cannot_load_image">"មិន​អាច​ផ្ទុក​រូបភាព​!"</string>
+    <string name="m_refine_cancel">បោះបង់</string>
+    <string name="m_refine_refine">បន្សុទ្ធ</string>
+    <string name="m_refine_undo">"​មិន​​ធ្វើ​វិញ"</string>
+    <string name="m_refine_done">"ធ្វើ​រួច"</string>
+    <string name="m_refine_save_clipping">រក្សាទុកទៅកាន់ការច្រឹប</string>
+    <string name="m_refine_saved_clipping">បានរក្សាទុករូបភាពទៅកាន់ការច្រឹប។</string>
+    <string name="m_refine_select_obj_title">ជ្រើសវត្ថុ</string>
+    <string name="m_refine_refine_obj_title">ធ្វើឱ្យវត្ថុប្រសើរឡើង</string>
+
+    <string name="m_save">"រក្សាទុក"</string>
+    <string name="m_stereo_refine_original_photo">ធ្វើឱ្យរូបថតដើមប្រសើរឡើង</string>
+    <string name="m_pick_photo_to_copy">ជ្រើសយករូបថតដើម្បីចម្លង</string>
+
+    <string name="m_clippings">សំណុំឃ្លីពដែលកាត់ចេញ</string>
+    <string name="m_no_stereo_image">គ្មានរូបភាពស្ដេរ៉េអូ។</string>
+    <string name="m_stereo_refine_zoom">"ពង្រីក/បង្រួម"</string>
+    <string name="m_stereo_refine_add_detail">បន្ថែមព័ត៌មានលម្អិត</string>
+    <string name="m_stereo_refine_subtract_detail">ដកព័ត៌មានលម្អិត</string>
+    <string name="m_stereo_synth_move_front">ផ្លាស់ទីទៅមុខ</string>
+    <string name="m_stereo_synth_move_back">ផ្លាស់ទីទៅក្រោយ</string>
+    <string name="m_general_err_tip">កំហុសកើតមាន។កម្មវិធីនឹងចាកចេញ។</string>
+</resources>
